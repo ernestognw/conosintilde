@@ -57,30 +57,42 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="548"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="JSn-IJ-hkD">
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="JSn-IJ-hkD">
                                 <rect key="frame" x="28" y="92" width="264" height="125"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Silaba tónica en el ultimo lugar" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4YV-xI-3oe">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Silaba tónica en el ultimo lugar" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4YV-xI-3oe">
                                         <rect key="frame" x="16" y="8" width="232" height="21"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="21" id="XhO-OR-bIo"/>
+                                        </constraints>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Co-lor" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iuh-1Q-GOH">
-                                        <rect key="frame" x="60" y="48" width="144" height="69"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Co-lor" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iuh-1Q-GOH">
+                                        <rect key="frame" x="8" y="48" width="248" height="69"/>
+                                        <color key="tintColor" systemColor="labelColor"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="69" id="Ilr-tW-q0I"/>
+                                        </constraints>
                                         <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="50"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemGray5Color"/>
+                                <constraints>
+                                    <constraint firstItem="iuh-1Q-GOH" firstAttribute="leading" secondItem="JSn-IJ-hkD" secondAttribute="leading" constant="60" id="2dM-EB-pyh"/>
+                                    <constraint firstAttribute="trailing" secondItem="4YV-xI-3oe" secondAttribute="trailing" constant="16" id="47c-YQ-KL8"/>
+                                    <constraint firstAttribute="height" constant="125" id="QHJ-ng-ygF"/>
+                                    <constraint firstItem="4YV-xI-3oe" firstAttribute="leading" secondItem="JSn-IJ-hkD" secondAttribute="leading" constant="16" id="eHE-tf-D6R"/>
+                                    <constraint firstItem="iuh-1Q-GOH" firstAttribute="top" secondItem="4YV-xI-3oe" secondAttribute="bottom" constant="19" id="hX9-JB-Ig5"/>
+                                    <constraint firstAttribute="trailing" secondItem="iuh-1Q-GOH" secondAttribute="trailing" constant="60" id="keS-n0-1Ck"/>
+                                    <constraint firstItem="4YV-xI-3oe" firstAttribute="top" secondItem="JSn-IJ-hkD" secondAttribute="top" constant="8" id="ycA-gP-jeP"/>
+                                </constraints>
                             </view>
-                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Rfh-ko-QUo">
-                                <rect key="frame" x="28" y="242" width="264" height="227"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Rfh-ko-QUo">
+                                <rect key="frame" x="28" y="242" width="264" height="296"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="  " lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eln-mV-xa4">
                                         <rect key="frame" x="16" y="8" width="0.0" height="21"/>
@@ -89,40 +101,68 @@
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Ma-má" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1FM-am-5vH">
-                                        <rect key="frame" x="8" y="56" width="96" height="41"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Ma-má" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1FM-am-5vH">
+                                        <rect key="frame" x="8" y="94" width="248" height="41"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="41" id="I5i-63-jLF"/>
+                                        </constraints>
                                         <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="30"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="In-glés" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rdv-YR-rHW">
-                                        <rect key="frame" x="8" y="105" width="93" height="41"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="In-glés" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rdv-YR-rHW">
+                                        <rect key="frame" x="8" y="143" width="248" height="41"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="41" id="HGc-I8-74H"/>
+                                        </constraints>
                                         <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="30"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Tam-bién" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7gO-j9-xfG">
-                                        <rect key="frame" x="8" y="154" width="127" height="41"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Tam-bién" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7gO-j9-xfG">
+                                        <rect key="frame" x="8" y="192" width="248" height="41"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="41" id="1Dk-EM-Gm3"/>
+                                        </constraints>
                                         <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="30"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Llevan tilde cuando la palabra acaba en N, S o vocal" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kd7-CU-KIR">
+                                        <rect key="frame" x="19" y="8" width="226" height="41"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="41" id="8P8-GP-NtB"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemGray5Color"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="296" id="4n7-iq-lgU"/>
+                                    <constraint firstItem="7gO-j9-xfG" firstAttribute="leading" secondItem="Rfh-ko-QUo" secondAttribute="leading" constant="8" id="8lE-Os-uPl"/>
+                                    <constraint firstItem="rdv-YR-rHW" firstAttribute="top" secondItem="1FM-am-5vH" secondAttribute="bottom" constant="8" symbolic="YES" id="BYc-0w-oXh"/>
+                                    <constraint firstItem="7gO-j9-xfG" firstAttribute="top" secondItem="rdv-YR-rHW" secondAttribute="bottom" constant="8" symbolic="YES" id="EFj-LR-HDe"/>
+                                    <constraint firstAttribute="trailing" secondItem="1FM-am-5vH" secondAttribute="trailing" constant="8" id="Olr-aR-7pT"/>
+                                    <constraint firstAttribute="trailing" secondItem="rdv-YR-rHW" secondAttribute="trailing" constant="8" id="QMp-PB-jO0"/>
+                                    <constraint firstAttribute="trailing" secondItem="7gO-j9-xfG" secondAttribute="trailing" constant="8" id="RUa-us-oN0"/>
+                                    <constraint firstItem="rdv-YR-rHW" firstAttribute="leading" secondItem="Rfh-ko-QUo" secondAttribute="leading" constant="8" id="gdd-Xb-P61"/>
+                                    <constraint firstItem="1FM-am-5vH" firstAttribute="top" secondItem="Rfh-ko-QUo" secondAttribute="top" constant="100" id="kE2-iS-J3R"/>
+                                    <constraint firstItem="1FM-am-5vH" firstAttribute="leading" secondItem="Rfh-ko-QUo" secondAttribute="leading" constant="8" id="p27-Z3-i3D"/>
+                                </constraints>
                             </view>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Llevan tilde cuando la palabra acaba en N, S o vocal" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kd7-CU-KIR">
-                                <rect key="frame" x="38" y="252" width="226" height="41"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="ej1-uv-FB2"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="ej1-uv-FB2" firstAttribute="trailing" secondItem="JSn-IJ-hkD" secondAttribute="trailing" constant="28" id="0zM-lv-vdu"/>
+                            <constraint firstItem="Rfh-ko-QUo" firstAttribute="top" secondItem="JSn-IJ-hkD" secondAttribute="bottom" constant="25" id="2eE-Xf-zuQ"/>
+                            <constraint firstItem="JSn-IJ-hkD" firstAttribute="top" secondItem="ej1-uv-FB2" secondAttribute="top" constant="36" id="EPo-3v-C0I"/>
+                            <constraint firstItem="Rfh-ko-QUo" firstAttribute="leading" secondItem="ej1-uv-FB2" secondAttribute="leading" constant="28" id="MOR-Wk-HSo"/>
+                            <constraint firstItem="JSn-IJ-hkD" firstAttribute="leading" secondItem="ej1-uv-FB2" secondAttribute="leading" constant="28" id="wor-Iq-XGf"/>
+                            <constraint firstItem="ej1-uv-FB2" firstAttribute="trailing" secondItem="Rfh-ko-QUo" secondAttribute="trailing" constant="28" id="x2Z-DI-Uie"/>
+                        </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="UXH-hg-4qR"/>
                 </viewController>
@@ -147,10 +187,10 @@
             </objects>
             <point key="canvasLocation" x="739" y="-191"/>
         </scene>
-        <!--View Controller-->
+        <!--Menu Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="conOSinTilde" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="MenuController" customModule="conOSinTilde" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -209,6 +249,9 @@
         </scene>
     </scenes>
     <resources>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
         <systemColor name="linkColor">
             <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>

@@ -16,6 +16,8 @@ class TrueFalseControllerViewController: UIViewController {
     var wordControl : Array<Bool> = Array()
     var arraySize : Int?
     var correcto: Bool?
+    var counter=1
+    @IBOutlet weak var countLb: UILabel!
     @IBOutlet weak var resultLb: UILabel!
     @IBOutlet weak var questionLb: UILabel!
     @IBOutlet weak var falseBtn: UIButton!
@@ -32,6 +34,7 @@ class TrueFalseControllerViewController: UIViewController {
         self.wordsArray = (dictionary?["TRUEFALSE"] as! NSArray)
         self.arraySize = wordsArray!.count
         wordControl = Array(repeating: false, count: self.arraySize!)
+        countLb.text=String(counter)
         getNewGame()
         
         
@@ -56,6 +59,7 @@ class TrueFalseControllerViewController: UIViewController {
     }
     
     @IBAction func ContinueButton(_ sender: UIButton) {
+        counter+=1
         getNewGame()
     }
     
@@ -65,6 +69,7 @@ class TrueFalseControllerViewController: UIViewController {
         trueBtn.isEnabled = true
         continueBtn.isEnabled = false
         resultLb.text=""
+        countLb.text=String(counter)
         
         //Numero random de pregunta
         var randomInt = Int.random(in: 0..<(self.arraySize!-1))

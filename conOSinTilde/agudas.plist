@@ -4,6 +4,7 @@
 <dict>
 	<key>TRUEFALSE</key>
 	<array>
+
 		<dict>
 			<key>question</key>
 			<string>¿La siguiente palabra está bien acentuada?</string>
@@ -12,7 +13,249 @@
 			<key>answer</key>
 			<false/>
 		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Adicción</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Adíos</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Estres</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Algún</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Fránces</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Así</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Mama</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Cortés</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Menú</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Esquí</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Edredon</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Admísion</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Rubí</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Sálmon</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Tambien</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		 <dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Sofá</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Telévision</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Maní</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Limon</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Tibúron</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>José</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Cafe</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Jámas</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Japonés</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>León</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Tomas</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Mísion</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Cómun</string>
+			<key>answer</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Maíz</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>¿La siguiente palabra está bien acentuada?</string>
+			<key>word</key>
+			<string>Ocasión</string>
+			<key>answer</key>
+			<true/>
+		</dict>
+
 	</array>
+
 	<key>CHECKLIST</key>
 	<array>
 		<dict>

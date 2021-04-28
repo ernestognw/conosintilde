@@ -10,9 +10,9 @@ import UIKit
 class CourseTableViewController: UITableViewController {
     
     
-    var courses = [Course(category: "Agudas", levels: ["Nivel 1", "Nivel 2", "Nivel 3"]),
-                   Course(category: "Graves", levels: ["Nivel 1", "Nivel 2", "Nivel 3"]),
-                   Course(category: "Esdrujulas", levels: ["Nivel 1", "Nivel 2", "Nivel 3"])]
+    var courses = [Course(category: "Agudas", levels: ["True/False", "Checklist", "Relate"]),
+                   Course(category: "Graves", levels: ["True/False", "Checklist", "Relate"]),
+                   Course(category: "Esdrujulas", levels: ["True/False", "Checklist", "Relate"])]
     
     
 

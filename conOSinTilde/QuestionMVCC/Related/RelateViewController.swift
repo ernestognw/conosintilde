@@ -1,17 +1,17 @@
 //
-//  TrueFalseControllerViewController.swift
+//  RelateViewCOntroller.swift
 //  conOSinTilde
 //
-//  Created by Ernesto García on 22/04/21.
+//  Created by Christian on 5/2/21.
 //
 
 import UIKit
 
-class TrueFalseControllerViewController: UIViewController {
+class RelateViewController: UIViewController {
     var question : String?
     var word : String?
     var answer : Bool?
-    var game : TrueFalse?
+    var game : Checklist?
     var wordsArray : NSArray?
     var wordControl : Array<Bool> = Array()
     var arraySize : Int?
@@ -24,38 +24,18 @@ class TrueFalseControllerViewController: UIViewController {
     @IBOutlet weak var trueBtn: UIButton!
     @IBOutlet weak var wordLb: UILabel!
     @IBOutlet weak var continueBtn: UIButton!
-    
-    
 
     override func viewDidLoad() {
         super.viewDidLoad()
         //Obtener array de ejercicios
         let dictionary = NSDictionary(contentsOfFile: Bundle.main.path(forResource: "agudas", ofType: "plist")!);
-        self.wordsArray = (dictionary?["TRUEFALSE"] as! NSArray)
+        self.wordsArray = (dictionary?["RELATE"] as! NSArray)
         self.arraySize = wordsArray!.count
         wordControl = Array(repeating: false, count: self.arraySize!)
         countLb.text=String(counter)
         getNewGame()
-        
-        
-    }
-    
-    @IBAction func BotonVerdadero(_ sender: Any) {
-        if(game!.answer){
-            correcto = true; //Correcto
-        } else {
-            correcto = false; //Incorrecto
-        }
-        showResult()
-    }
-    
-    @IBAction func BotonFalso(_ sender: UIButton) {
-        if(game!.answer){
-            correcto = false; //Incorrecto
-        } else {
-            correcto = true; //Correcto
-        }
-        showResult()
+
+        // Do any additional setup after loading the view.
     }
     
     @IBAction func ContinueButton(_ sender: UIButton) {
@@ -64,9 +44,6 @@ class TrueFalseControllerViewController: UIViewController {
     }
     
     func getNewGame(){
-        
-        falseBtn.isEnabled = true
-        trueBtn.isEnabled = true
         continueBtn.isEnabled = false
         resultLb.text=""
         countLb.text=String(counter)
@@ -81,16 +58,12 @@ class TrueFalseControllerViewController: UIViewController {
         //Convertir a objeto TrueFalse
         let obj = self.wordsArray![randomInt] as! NSDictionary
         self.wordControl[randomInt] = true
-        let word = obj["word"] as! String;
+        let word = obj["word"] as! [String];
         let question = obj["question"] as! String;
         let answer = obj["answer"] as! Bool;
-        game = TrueFalse.init(question: question, word: word, answer: answer)
-        //tf.print()
-        
-        //Mostrar en pantalla
-        wordLb.text = word
         questionLb.text = question
     }
+    
     
     func showResult(){
         
@@ -106,7 +79,7 @@ class TrueFalseControllerViewController: UIViewController {
             resultLb.textColor=#colorLiteral(red: 0.7450980544, green: 0.1568627506, blue: 0.07450980693, alpha: 1)
         }
     }
-    
+
     /*
     // MARK: - Navigation
 
@@ -116,5 +89,4 @@ class TrueFalseControllerViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
-
 }

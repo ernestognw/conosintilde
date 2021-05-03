@@ -84,15 +84,22 @@ class CourseTableViewController: UITableViewController {
         return true
     }
     */
-
-    /*
+    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        self.performSegue(withIdentifier: "info", sender: indexPath.row)
+    }
+    
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         // Get the new view controller using segue.destination.
         // Pass the selected object to the new view controller.
+        print("Perform Segue")
+        print(sender)
+        if let svc = segue.destination as? AgudasInstructionsController {
+            svc.level = sender as? Int
+        }
     }
-    */
+    
 
 }

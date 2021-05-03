@@ -17,14 +17,14 @@ class Word : NSObject {
     }
 }
 
-class Checklist: NSObject {
+class Checklist: NSObject  {
     var question : String
     var words : [Word]
-    var answer : Bool
+
     
-    init(question : String, words : [Word], answer : Bool) {
+    init(question : String, words : [Word]) {
         self.question = question
         self.words = words
-        self.answer = answer
+ 
     }
 }

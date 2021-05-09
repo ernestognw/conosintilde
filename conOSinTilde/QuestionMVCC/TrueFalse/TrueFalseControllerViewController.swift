@@ -7,19 +7,28 @@
 
 import UIKit
 
+class Highscore: NSObject, NSCoding {
+    var game : [Int] = []
+    required init(coder aDecoder: NSCoder) {
+        game = aDecoder.decodeObject(forKey: "game") as? [Int] ?? []
+    }
+
+    func encode(with aCoder: NSCoder) {
+        aCoder.encode(game, forKey: "game")
+        
+    }
+}
+
 class TrueFalseControllerViewController: UIViewController {
     var question : String?
     var word : String?
     var answer : Bool?
-    
     var game : TrueFalse?
-    
     var wordsArray : NSArray?
-    
     var wordControl : Array<Bool> = Array()
     var arraySize : Int?
-    
     var correcto: Bool?
+    var highscores: [Int]?
     
     var counter=1
     @IBOutlet weak var countLb: UILabel!
@@ -63,7 +72,38 @@ class TrueFalseControllerViewController: UIViewController {
         showResult()
     }
     
+    
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidDisappear(true)
+        print("load data")
+        let defaults = UserDefaults.standard
+        highscores = defaults.object(forKey: "agudas_" + "TRUEFALSE") as? [Int] ?? [Int]()
+        print(highscores!)
+       
+    }
+    
     @IBAction func ContinueButton(_ sender: UIButton) {
+        if (correcto == false) {
+            let defaults = UserDefaults.standard
+            if (highscores!.count > 5) {
+                highscores!.sort { (lhs, rhs) in return lhs < rhs }
+                for (index, score) in highscores!.enumerated() {
+                    if (counter > score) {
+                        highscores![index] = counter
+                        defaults.set(highscores, forKey: "agudas_" + "TRUEFALSE")
+                        break
+                    }
+                 }
+            }
+            else {
+                highscores!.append(counter)
+                defaults.set(highscores, forKey: "agudas_" + "TRUEFALSE")
+            }
+
+            self.performSegue(withIdentifier: "game_over", sender: nil)
+            return
+        }
         counter+=1
         getNewGame()
     }
@@ -109,17 +149,23 @@ class TrueFalseControllerViewController: UIViewController {
         } else {
             resultLb.text="Incorrecto"
             resultLb.textColor=#colorLiteral(red: 0.7450980544, green: 0.1568627506, blue: 0.07450980693, alpha: 1)
+           
         }
     }
     
-    /*
+    
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         // Get the new view controller using segue.destination.
         // Pass the selected object to the new view controller.
+        if let svc = segue.destination as? GameOverViewController {
+            svc.counter = counter
+            svc.message_string = "Lastima haz perdido!"
+            svc.highscore =  counter
+        }
+    
+    
     }
-    */
-
 }

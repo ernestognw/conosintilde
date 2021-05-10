@@ -10,9 +10,9 @@ import UIKit
 class CourseTableViewController: UITableViewController {
     
     
-    var courses = [Course(category: "Agudas", levels: ["Nivel 1", "Nivel 2", "Nivel 3"]),
-                   Course(category: "Graves", levels: ["Nivel 1", "Nivel 2", "Nivel 3"]),
-                   Course(category: "Esdrujulas", levels: ["Nivel 1", "Nivel 2", "Nivel 3"])]
+    var courses = [Course(category: "Agudas", levels: ["True/False", "Checklist", "Relate"]),
+                   Course(category: "Graves", levels: ["True/False", "Checklist", "Relate"]),
+                   Course(category: "Esdrujulas", levels: ["True/False", "Checklist", "Relate"])]
     
     
 
@@ -84,15 +84,22 @@ class CourseTableViewController: UITableViewController {
         return true
     }
     */
-
-    /*
+    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        self.performSegue(withIdentifier: "info", sender: indexPath.row)
+    }
+    
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         // Get the new view controller using segue.destination.
         // Pass the selected object to the new view controller.
+        print("Perform Segue")
+        print(sender)
+        if let svc = segue.destination as? AgudasInstructionsController {
+            svc.level = sender as? Int
+        }
     }
-    */
+    
 
 }

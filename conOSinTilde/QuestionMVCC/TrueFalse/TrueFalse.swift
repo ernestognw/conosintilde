@@ -17,4 +17,10 @@ class TrueFalse: NSObject {
         self.word = word
         self.answer = answer
     }
+    
+    func print(){
+        Swift.print("question: ", self.question)
+        Swift.print("word: ", self.word)
+        Swift.print("answer: ", self.answer)
+    }
 }

@@ -19,6 +19,13 @@
 		6BC13D432631438B007D7E44 /* Checklist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC13D422631438B007D7E44 /* Checklist.swift */; };
 		6BC13D4626314394007D7E44 /* Relate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC13D4526314394007D7E44 /* Relate.swift */; };
 		6BC13D4926314809007D7E44 /* TrueFalseControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC13D4826314809007D7E44 /* TrueFalseControllerViewController.swift */; };
+		AAB1B8FC263F4CB400437D66 /* QuestionTemplateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB1B8FB263F4CB400437D66 /* QuestionTemplateViewController.swift */; };
+		AAB1B900263F4CE700437D66 /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB1B8FF263F4CE700437D66 /* ChecklistViewController.swift */; };
+		AAB1B907263F508100437D66 /* RelateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB1B906263F508100437D66 /* RelateViewController.swift */; };
+		AAB1B90F263F531D00437D66 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB1B90E263F531D00437D66 /* Question.swift */; };
+		AAB554DC26475D0C002ED3E6 /* graves.plist in Resources */ = {isa = PBXBuildFile; fileRef = AAB554DA26475D0C002ED3E6 /* graves.plist */; };
+		AAB554DD26475D0C002ED3E6 /* esdrujulas.plist in Resources */ = {isa = PBXBuildFile; fileRef = AAB554DB26475D0C002ED3E6 /* esdrujulas.plist */; };
+		AACB51D526436B5F00B32B8A /* GameOverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AACB51D426436B5F00B32B8A /* GameOverViewController.swift */; };
 		CCF388022630BC940099B004 /* CourseTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF388012630BC940099B004 /* CourseTableViewController.swift */; };
 		CCF388052630C21A0099B004 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF388042630C21A0099B004 /* Course.swift */; };
 /* End PBXBuildFile section */
@@ -38,6 +45,13 @@
 		6BC13D422631438B007D7E44 /* Checklist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checklist.swift; sourceTree = "<group>"; };
 		6BC13D4526314394007D7E44 /* Relate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Relate.swift; sourceTree = "<group>"; };
 		6BC13D4826314809007D7E44 /* TrueFalseControllerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrueFalseControllerViewController.swift; sourceTree = "<group>"; };
+		AAB1B8FB263F4CB400437D66 /* QuestionTemplateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionTemplateViewController.swift; sourceTree = "<group>"; };
+		AAB1B8FF263F4CE700437D66 /* ChecklistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistViewController.swift; sourceTree = "<group>"; };
+		AAB1B906263F508100437D66 /* RelateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelateViewController.swift; sourceTree = "<group>"; };
+		AAB1B90E263F531D00437D66 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		AAB554DA26475D0C002ED3E6 /* graves.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = graves.plist; sourceTree = "<group>"; };
+		AAB554DB26475D0C002ED3E6 /* esdrujulas.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = esdrujulas.plist; sourceTree = "<group>"; };
+		AACB51D426436B5F00B32B8A /* GameOverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverViewController.swift; sourceTree = "<group>"; };
 		CCF388012630BC940099B004 /* CourseTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseTableViewController.swift; sourceTree = "<group>"; };
 		CCF388042630C21A0099B004 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -76,19 +90,58 @@
 				6B9772F8262DC22D007DDEDF /* SceneDelegate.swift */,
 				6B9772FA262DC22D007DDEDF /* MenuController.swift */,
 				6B9772FC262DC22D007DDEDF /* Main.storyboard */,
-				6BC13D4826314809007D7E44 /* TrueFalseControllerViewController.swift */,
+				AACB51D426436B5F00B32B8A /* GameOverViewController.swift */,
 				6BC13D3726313D2C007D7E44 /* AgudasInstructionsController.swift */,
 				CCF388042630C21A0099B004 /* Course.swift */,
+				AAB1B8FE263F4CBD00437D66 /* QuestionMVCC */,
 				CCF388012630BC940099B004 /* CourseTableViewController.swift */,
 				6B9772FF262DC22D007DDEDF /* Assets.xcassets */,
 				6B977301262DC22D007DDEDF /* LaunchScreen.storyboard */,
 				6B977304262DC22D007DDEDF /* Info.plist */,
 				6BC13D2F26313793007D7E44 /* agudas.plist */,
-				6BC13D3B26314365007D7E44 /* TrueFalse.swift */,
-				6BC13D422631438B007D7E44 /* Checklist.swift */,
-				6BC13D4526314394007D7E44 /* Relate.swift */,
+				AAB554DB26475D0C002ED3E6 /* esdrujulas.plist */,
+				AAB554DA26475D0C002ED3E6 /* graves.plist */,
 			);
 			path = conOSinTilde;
+			sourceTree = "<group>";
+		};
+		AAB1B8FE263F4CBD00437D66 /* QuestionMVCC */ = {
+			isa = PBXGroup;
+			children = (
+				AACB51D726436BF300B32B8A /* TrueFalse */,
+				AAB1B905263F505100437D66 /* Related */,
+				AAB1B903263F4DCE00437D66 /* Checklist */,
+				AAB1B8FB263F4CB400437D66 /* QuestionTemplateViewController.swift */,
+				AAB1B90E263F531D00437D66 /* Question.swift */,
+			);
+			path = QuestionMVCC;
+			sourceTree = "<group>";
+		};
+		AAB1B903263F4DCE00437D66 /* Checklist */ = {
+			isa = PBXGroup;
+			children = (
+				6BC13D422631438B007D7E44 /* Checklist.swift */,
+				AAB1B8FF263F4CE700437D66 /* ChecklistViewController.swift */,
+			);
+			path = Checklist;
+			sourceTree = "<group>";
+		};
+		AAB1B905263F505100437D66 /* Related */ = {
+			isa = PBXGroup;
+			children = (
+				6BC13D4526314394007D7E44 /* Relate.swift */,
+				AAB1B906263F508100437D66 /* RelateViewController.swift */,
+			);
+			path = Related;
+			sourceTree = "<group>";
+		};
+		AACB51D726436BF300B32B8A /* TrueFalse */ = {
+			isa = PBXGroup;
+			children = (
+				6BC13D3B26314365007D7E44 /* TrueFalse.swift */,
+				6BC13D4826314809007D7E44 /* TrueFalseControllerViewController.swift */,
+			);
+			path = TrueFalse;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,6 +204,8 @@
 				6B977303262DC22D007DDEDF /* LaunchScreen.storyboard in Resources */,
 				6B977300262DC22D007DDEDF /* Assets.xcassets in Resources */,
 				6B9772FE262DC22D007DDEDF /* Main.storyboard in Resources */,
+				AAB554DC26475D0C002ED3E6 /* graves.plist in Resources */,
+				AAB554DD26475D0C002ED3E6 /* esdrujulas.plist in Resources */,
 				6BC13D3026313793007D7E44 /* agudas.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -165,13 +220,18 @@
 				6BC13D4926314809007D7E44 /* TrueFalseControllerViewController.swift in Sources */,
 				6BC13D3826313D2C007D7E44 /* AgudasInstructionsController.swift in Sources */,
 				6B9772FB262DC22D007DDEDF /* MenuController.swift in Sources */,
+				AAB1B907263F508100437D66 /* RelateViewController.swift in Sources */,
+				AAB1B900263F4CE700437D66 /* ChecklistViewController.swift in Sources */,
+				AAB1B90F263F531D00437D66 /* Question.swift in Sources */,
 				6B9772F7262DC22D007DDEDF /* AppDelegate.swift in Sources */,
 				6BC13D4626314394007D7E44 /* Relate.swift in Sources */,
 				CCF388052630C21A0099B004 /* Course.swift in Sources */,
 				6BC13D432631438B007D7E44 /* Checklist.swift in Sources */,
+				AAB1B8FC263F4CB400437D66 /* QuestionTemplateViewController.swift in Sources */,
 				CCF388022630BC940099B004 /* CourseTableViewController.swift in Sources */,
 				6BC13D3C26314365007D7E44 /* TrueFalse.swift in Sources */,
 				6B9772F9262DC22D007DDEDF /* SceneDelegate.swift in Sources */,
+				AACB51D526436B5F00B32B8A /* GameOverViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

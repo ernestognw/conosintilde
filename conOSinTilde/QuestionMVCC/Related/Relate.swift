@@ -17,7 +17,7 @@ class ColumnOption : NSObject {
     }
 }
 
-class Relate: NSObject {
+struct Relate {
     var question : String
     var left : [ColumnOption]
     var right : [ColumnOption]

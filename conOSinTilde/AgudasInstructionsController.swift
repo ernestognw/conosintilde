@@ -32,11 +32,9 @@ class AgudasInstructionsController: UIViewController {
         if segue.identifier == "true_false" {
             let svc = segue.destination as? TrueFalseControllerViewController
         } else if segue.identifier == "checklist" {
-            if let svc = segue.destination as? ChecklistViewController {
-                // Pending
-            }
-        } else if let svg = segue.identifier == "relate" {
-            
+            let svc = segue.destination as? ChecklistViewController
+        } else if segue.identifier == "relate" {
+            let svc = segue.destination as? ChecklistViewController
         }
     }
 

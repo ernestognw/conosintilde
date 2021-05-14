@@ -51,10 +51,10 @@
             </objects>
             <point key="canvasLocation" x="1583" y="-191"/>
         </scene>
-        <!--Agudas Instructions Controller-->
+        <!--Instructions Controller-->
         <scene sceneID="ZZe-PA-9fO">
             <objects>
-                <viewController id="ktp-3J-rop" customClass="AgudasInstructionsController" customModule="conOSinTilde" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="ktp-3J-rop" customClass="InstructionsController" customModule="conOSinTilde" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="HAB-Jl-I3s">
                         <rect key="frame" x="0.0" y="0.0" width="390" height="790"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -201,7 +201,7 @@
                     <connections>
                         <segue destination="0w0-hb-Gh1" kind="show" identifier="checklist" id="cY7-UK-WVZ"/>
                         <segue destination="ahb-gO-Rz8" kind="show" identifier="true_false" id="MNm-nh-4eB"/>
-                        <segue destination="6Q3-Hx-bUV" kind="show" identifier="relate" id="JzV-mh-jdh"/>
+                        <segue destination="6Q3-Hx-bUV" kind="show" identifier="relate" id="ZCr-YJ-0m5"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="7dw-G8-Y4P" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -741,6 +741,7 @@
                         <outlet property="questionLb" destination="RUv-vC-YWe" id="bjO-T6-qcR"/>
                         <outlet property="resultLb" destination="HwA-ol-dJ5" id="pdY-Ld-gFa"/>
                         <outlet property="wordLb" destination="O3S-9j-Bwb" id="uVF-3L-bZN"/>
+                        <segue destination="321-zI-Dm6" kind="show" id="n1V-3A-lea"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5vy-S9-DRP" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -851,10 +852,10 @@
             </objects>
             <point key="canvasLocation" x="6929" y="-257"/>
         </scene>
-        <!--Agudas Instructions Controller-->
+        <!--Instructions Controller-->
         <scene sceneID="Fyv-j1-pae">
             <objects>
-                <viewController id="f2H-wH-0dp" customClass="AgudasInstructionsController" customModule="conOSinTilde" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="f2H-wH-0dp" customClass="InstructionsController" customModule="conOSinTilde" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="1D5-r8-JbB">
                         <rect key="frame" x="0.0" y="0.0" width="390" height="790"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -978,7 +979,7 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
-                                    <action selector="perfomSegue:" destination="f2H-wH-0dp" eventType="touchUpInside" id="mhp-Y9-Xzf"/>
+                                    <action selector="perfomSegue:" destination="f2H-wH-0dp" eventType="touchUpInside" id="fT1-vf-97X"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -1001,17 +1002,17 @@
                     <connections>
                         <segue destination="ahb-gO-Rz8" kind="show" identifier="true_false" id="S9p-3j-u9a"/>
                         <segue destination="0w0-hb-Gh1" kind="show" identifier="checklist" id="l5M-vf-pOX"/>
-                        <segue destination="6Q3-Hx-bUV" kind="show" identifier="relate" id="8Za-iW-B97"/>
+                        <segue destination="6Q3-Hx-bUV" kind="show" identifier="relate" id="Wc8-dN-vfb"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vdz-Eh-4iN" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2474" y="-191"/>
         </scene>
-        <!--Agudas Instructions Controller-->
+        <!--Instructions Controller-->
         <scene sceneID="sIy-iT-nlc">
             <objects>
-                <viewController id="an7-Lb-AgY" customClass="AgudasInstructionsController" customModule="relate" sceneMemberID="viewController">
+                <viewController id="an7-Lb-AgY" customClass="InstructionsController" customModule="conOSinTilde" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="f6A-N5-cKP">
                         <rect key="frame" x="0.0" y="0.0" width="390" height="790"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1163,11 +1164,11 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gPD-eV-F0E" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2474" y="614"/>
+            <point key="canvasLocation" x="2474" y="670"/>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="Ddt-f3-12g"/>
+        <segue reference="n1V-3A-lea"/>
         <segue reference="4eY-ei-7f2"/>
         <segue reference="uwe-uO-07L"/>
         <segue reference="pRE-du-OGq"/>

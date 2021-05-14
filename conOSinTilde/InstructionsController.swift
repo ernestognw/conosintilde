@@ -7,7 +7,7 @@
 
 import UIKit
 
-class AgudasInstructionsController: UIViewController {
+class InstructionsController: UIViewController {
     var level : Int!
     
     override func viewDidLoad() {
@@ -34,7 +34,7 @@ class AgudasInstructionsController: UIViewController {
         } else if segue.identifier == "checklist" {
             let svc = segue.destination as? ChecklistViewController
         } else if segue.identifier == "relate" {
-            let svc = segue.destination as? ChecklistViewController
+            let svc = segue.destination as? RelateViewController
         }
     }
 

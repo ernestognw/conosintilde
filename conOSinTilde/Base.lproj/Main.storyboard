@@ -425,7 +425,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="90z-aP-RnZ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3531" y="-1073"/>
+            <point key="canvasLocation" x="4438" y="-1017"/>
         </scene>
         <!--Checklist View Controller-->
         <scene sceneID="cxy-9v-iOm">
@@ -537,7 +537,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="f0G-WC-rS2" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3531" y="-456"/>
+            <point key="canvasLocation" x="4437" y="-191"/>
         </scene>
         <!--Relate View Controller-->
         <scene sceneID="kKW-3m-0Tm">
@@ -745,7 +745,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5vy-S9-DRP" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3530.7692307692305" y="187.67772511848341"/>
+            <point key="canvasLocation" x="4437" y="671"/>
         </scene>
         <!--Game Over View Controller-->
         <scene sceneID="28D-dR-Rch">
@@ -849,7 +849,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="QWS-Nb-KML" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4940" y="-225"/>
+            <point key="canvasLocation" x="6929" y="-257"/>
         </scene>
         <!--Agudas Instructions Controller-->
         <scene sceneID="Fyv-j1-pae">
@@ -906,7 +906,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Llevan tilde cuando la palabraacaba en N, S o vocal" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZdY-sY-0H5">
-                                        <rect key="frame" x="10" y="19" width="314" height="41"/>
+                                        <rect key="frame" x="10" y="19" width="304.66666666666669" height="41"/>
                                         <constraints>
                                             <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="41" id="PIQ-lm-b4C"/>
                                         </constraints>
@@ -1063,7 +1063,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Llevan tilde cuando la palabraacaba en N, S o vocal" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Dz8-Qz-RER">
-                                        <rect key="frame" x="10" y="19" width="314" height="41"/>
+                                        <rect key="frame" x="10" y="19" width="304.66666666666669" height="41"/>
                                         <constraints>
                                             <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="41" id="FiA-SJ-ZHb"/>
                                         </constraints>
@@ -1168,12 +1168,9 @@
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="Ddt-f3-12g"/>
-<<<<<<< HEAD
-=======
         <segue reference="4eY-ei-7f2"/>
-        <segue reference="l5M-vf-pOX"/>
+        <segue reference="uwe-uO-07L"/>
         <segue reference="pRE-du-OGq"/>
->>>>>>> 28d1244 (Instructions)
     </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="labelColor">

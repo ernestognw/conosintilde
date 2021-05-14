@@ -23,7 +23,7 @@ class AgudasInstructionsController: UIViewController {
         } else if level == 1 {
             self.performSegue(withIdentifier: "checklist", sender: nil)
         } else if level == 2 {
-            // Pending
+            self.performSegue(withIdentifier: "relate", sender: nil)
         }
     
     }

@@ -23,8 +23,6 @@
 		AAB1B900263F4CE700437D66 /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB1B8FF263F4CE700437D66 /* ChecklistViewController.swift */; };
 		AAB1B907263F508100437D66 /* RelateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB1B906263F508100437D66 /* RelateViewController.swift */; };
 		AAB1B90F263F531D00437D66 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB1B90E263F531D00437D66 /* Question.swift */; };
-		AAB554DC26475D0C002ED3E6 /* graves.plist in Resources */ = {isa = PBXBuildFile; fileRef = AAB554DA26475D0C002ED3E6 /* graves.plist */; };
-		AAB554DD26475D0C002ED3E6 /* esdrujulas.plist in Resources */ = {isa = PBXBuildFile; fileRef = AAB554DB26475D0C002ED3E6 /* esdrujulas.plist */; };
 		AACB51D526436B5F00B32B8A /* GameOverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AACB51D426436B5F00B32B8A /* GameOverViewController.swift */; };
 		CCF388022630BC940099B004 /* CourseTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF388012630BC940099B004 /* CourseTableViewController.swift */; };
 		CCF388052630C21A0099B004 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF388042630C21A0099B004 /* Course.swift */; };
@@ -49,8 +47,6 @@
 		AAB1B8FF263F4CE700437D66 /* ChecklistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistViewController.swift; sourceTree = "<group>"; };
 		AAB1B906263F508100437D66 /* RelateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelateViewController.swift; sourceTree = "<group>"; };
 		AAB1B90E263F531D00437D66 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
-		AAB554DA26475D0C002ED3E6 /* graves.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = graves.plist; sourceTree = "<group>"; };
-		AAB554DB26475D0C002ED3E6 /* esdrujulas.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = esdrujulas.plist; sourceTree = "<group>"; };
 		AACB51D426436B5F00B32B8A /* GameOverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverViewController.swift; sourceTree = "<group>"; };
 		CCF388012630BC940099B004 /* CourseTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseTableViewController.swift; sourceTree = "<group>"; };
 		CCF388042630C21A0099B004 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
@@ -99,8 +95,6 @@
 				6B977301262DC22D007DDEDF /* LaunchScreen.storyboard */,
 				6B977304262DC22D007DDEDF /* Info.plist */,
 				6BC13D2F26313793007D7E44 /* agudas.plist */,
-				AAB554DB26475D0C002ED3E6 /* esdrujulas.plist */,
-				AAB554DA26475D0C002ED3E6 /* graves.plist */,
 			);
 			path = conOSinTilde;
 			sourceTree = "<group>";
@@ -204,8 +198,6 @@
 				6B977303262DC22D007DDEDF /* LaunchScreen.storyboard in Resources */,
 				6B977300262DC22D007DDEDF /* Assets.xcassets in Resources */,
 				6B9772FE262DC22D007DDEDF /* Main.storyboard in Resources */,
-				AAB554DC26475D0C002ED3E6 /* graves.plist in Resources */,
-				AAB554DD26475D0C002ED3E6 /* esdrujulas.plist in Resources */,
 				6BC13D3026313793007D7E44 /* agudas.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

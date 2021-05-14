@@ -7,24 +7,33 @@
 
 import UIKit
 
-class ColumnOption : NSObject {
+class WordPair : NSObject {
     var index : Int
-    var value : String
+    var first : String
+    var second : String
     
-    init(index : Int, value : String) {
+    init(index: Int, first: String, second: String) {
         self.index = index
-        self.value = value
+        self.first = first
+        self.second = second
+    }
+    func print(){
+        Swift.print("Word:", self.index, "\t { ", self.first, "-", self.second, " } ")
     }
 }
 
 struct Relate {
     var question : String
-    var left : [ColumnOption]
-    var right : [ColumnOption]
+    var words = [WordPair]()
     
-    init(question : String, left : [ColumnOption], right : [ColumnOption]) {
+    init(question : String, words : Array<WordPair>) {
         self.question = question
-        self.left = left
-        self.right = right
+        self.words = words
+    }
+    
+    
+    func print(){
+        Swift.print("question: ", self.question)
+        Swift.print("Words: ", self.words)
     }
 }

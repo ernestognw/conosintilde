@@ -87,7 +87,7 @@ class CourseTableViewController: UITableViewController {
     }
     */
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        self.performSegue(withIdentifier: String(indexPath.row), sender: indexPath.row)
+        self.performSegue(withIdentifier: String(indexPath.section), sender: indexPath)
     }
     
     // MARK: - Navigation
@@ -96,9 +96,22 @@ class CourseTableViewController: UITableViewController {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         // Get the new view controller using segue.destination.
         // Pass the selected object to the new view controller.
-        if let svc = segue.destination as? InstructionsController {
-            svc.level = sender as? Int
+        if let svc = segue.destination as? AccentDetail {
+            let indexPath = sender as! IndexPath
+            svc.level = indexPath.row
+            
+            if indexPath.section == 0 {
+                svc.title = "Agudas"
+            } else if indexPath.section == 1 {
+                svc.title = "Graves"
+            } else if indexPath.section == 2 {
+                svc.title = "Esdrújulas"
+            }
         }
+    }
+    
+    @IBAction func goBack() {
+        dismiss(animated: true)
     }
     
 

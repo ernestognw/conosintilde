@@ -7,7 +7,7 @@
 
 import UIKit
 
-class InstructionsController: UIViewController {
+class AccentDetail: UIViewController {
     var level : Int!
     
     override func viewDidLoad() {
@@ -22,20 +22,20 @@ class InstructionsController: UIViewController {
         } else if level == 2 {
             self.performSegue(withIdentifier: "relate", sender: nil)
         }
-    
     }
     
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let svc = segue.destination as? InstructionsViewController
+        
         if segue.identifier == "true_false" {
-            let svc = segue.destination as? TrueFalseControllerViewController
+            svc?.title = "Verdadero o falso"
         } else if segue.identifier == "checklist" {
-            let svc = segue.destination as? ChecklistViewController
+            svc?.title = "Checklist"
         } else if segue.identifier == "relate" {
-            let svc = segue.destination as? RelateViewController
+            svc?.title = "Relaciona"
         }
     }
-
 }

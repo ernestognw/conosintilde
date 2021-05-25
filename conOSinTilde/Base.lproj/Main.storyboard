@@ -378,6 +378,118 @@
             </objects>
             <point key="canvasLocation" x="739" y="-191"/>
         </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="EdH-p6-JrS">
+            <objects>
+                <navigationController id="d67-cn-kk1" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="vqa-RT-K9i">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="56"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="xtI-rW-xNm" kind="relationship" relationship="rootViewController" id="oQj-4S-eNP"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hVa-LY-jmx" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1214" y="-955"/>
+        </scene>
+        <!--Configuración-->
+        <scene sceneID="U2q-BM-nQy">
+            <objects>
+                <viewController id="xtI-rW-xNm" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="DD0-5A-V2m">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="647"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tlK-oR-hzF">
+                                <rect key="frame" x="126" y="114" width="149" height="51"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemTealColor"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <state key="normal" title="Editar Perfil"/>
+                                <connections>
+                                    <segue destination="L3l-VU-CDD" kind="push" id="RGl-lp-XNM"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="fbH-Lz-ehd"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Configuración" id="MVO-gz-UuN"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="i6j-wb-9xW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-511.19999999999999" y="-954.87256371814101"/>
+        </scene>
+        <!--Editar Perfil-->
+        <scene sceneID="a58-Mh-B87">
+            <objects>
+                <viewController id="L3l-VU-CDD" customClass="EditarPerfilVC" customModule="conOSinTilde" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="k2J-hm-QbX">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="647"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="default" translatesAutoresizingMaskIntoConstraints="NO" id="dP1-Au-fN5">
+                                <rect key="frame" x="67" y="113" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="RGy-xr-exF" appends="YES" id="IBb-Uh-E4g"/>
+                                </connections>
+                            </imageView>
+                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="tKO-H4-SwT">
+                                <rect key="frame" x="121" y="306" width="216" height="34"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Nombre:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xhj-qR-4lC">
+                                <rect key="frame" x="35" y="313" width="66" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SkJ-nL-TQe">
+                                <rect key="frame" x="141" y="434" width="92" height="39"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <state key="normal" title="Guardar"/>
+                                <connections>
+                                    <action selector="guardarConfiguracion:" destination="L3l-VU-CDD" eventType="touchUpInside" id="5lb-8l-Q1X"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="0pt-2i-yrw"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <gestureRecognizers/>
+                        <connections>
+                            <outletCollection property="gestureRecognizers" destination="UjW-FD-hMd" appends="YES" id="Npf-WC-udv"/>
+                        </connections>
+                    </view>
+                    <navigationItem key="navigationItem" title="Editar Perfil" id="y2L-1k-TKO"/>
+                    <connections>
+                        <outlet property="imgFoto" destination="dP1-Au-fN5" id="wtg-C8-TNQ"/>
+                        <outlet property="tfUsuario" destination="tKO-H4-SwT" id="1lP-kG-Hfz"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="W4P-51-EmR" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+                <tapGestureRecognizer id="RGy-xr-exF">
+                    <connections>
+                        <action selector="agregarFotoUsuario:" destination="L3l-VU-CDD" id="rhQ-k8-8eJ"/>
+                    </connections>
+                </tapGestureRecognizer>
+                <tapGestureRecognizer id="UjW-FD-hMd">
+                    <connections>
+                        <action selector="quitarKeyboard:" destination="L3l-VU-CDD" id="L85-6T-x85"/>
+                    </connections>
+                </tapGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="280.80000000000001" y="-955.77211394302856"/>
+        </scene>
         <!--Menu Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
@@ -427,6 +539,9 @@
                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                             <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
+                                        <connections>
+                                            <segue destination="d67-cn-kk1" kind="presentation" id="s4N-kg-gPI"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -1892,6 +2007,7 @@
     <resources>
         <image name="background" width="700" height="1155"/>
         <image name="chevron.backward" catalog="system" width="96" height="128"/>
+        <image name="default" width="200" height="200"/>
         <image name="logotype" width="467" height="117"/>
         <namedColor name="AccentColor">
             <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -1919,6 +2035,9 @@
         </systemColor>
         <systemColor name="systemPinkColor">
             <color red="1" green="0.17647058823529413" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemTealColor">
+            <color red="0.35294117647058826" green="0.78431372549019607" blue="0.98039215686274506" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>

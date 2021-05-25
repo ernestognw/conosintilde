@@ -29,7 +29,7 @@ class GameOverViewController: UIViewController {
 
         score.text = "Score: \(counter!)"
         message.text = message_string!
-        number.text = "\(counter!)/ \(highscore)"
+        number.text = "\(counter!) / \(highscore!)"
         // Do any additional setup after loading the view.
         self.navigationItem.hidesBackButton = true;
     }

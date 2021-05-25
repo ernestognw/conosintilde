@@ -102,10 +102,13 @@ class CourseTableViewController: UITableViewController {
             
             if indexPath.section == 0 {
                 svc.title = "Agudas"
+                svc.gameType = .AGUDAS
             } else if indexPath.section == 1 {
                 svc.title = "Graves"
+                svc.gameType = .GRAVES
             } else if indexPath.section == 2 {
                 svc.title = "Esdrújulas"
+                svc.gameType = .ESDRUJULAS
             }
         }
     }

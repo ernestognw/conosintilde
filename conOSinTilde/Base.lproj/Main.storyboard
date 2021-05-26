@@ -471,7 +471,7 @@
         <!--Configuración-->
         <scene sceneID="U2q-BM-nQy">
             <objects>
-                <viewController id="xtI-rW-xNm" sceneMemberID="viewController">
+                <viewController id="xtI-rW-xNm" customClass="ConfiguracionVC" customModule="conOSinTilde" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="DD0-5A-V2m">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="647"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -505,6 +505,9 @@
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <state key="normal" title="Borrar Progreso"/>
+                                <connections>
+                                    <action selector="borrarProgreso:" destination="xtI-rW-xNm" eventType="touchUpInside" id="rmx-MZ-yys"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="fbH-Lz-ehd"/>

@@ -10,6 +10,7 @@
 		0422509E265DC87500E63012 /* HistorialResultadosVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0422509D265DC87500E63012 /* HistorialResultadosVC.swift */; };
 		042250A4265DCC8800E63012 /* ResultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042250A3265DCC8800E63012 /* ResultCell.swift */; };
 		042250A8265DD12E00E63012 /* JuegosVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042250A7265DD12E00E63012 /* JuegosVC.swift */; };
+		04316BD1265F100900B3D353 /* ConfiguracionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04316BD0265F100900B3D353 /* ConfiguracionVC.swift */; };
 		04D03E66265DB35D00F93611 /* EditarPerfilVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D03E65265DB35D00F93611 /* EditarPerfilVC.swift */; };
 		6B0F6B7E264E295300BB4CEB /* view.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B0F6B7D264E295300BB4CEB /* view.swift */; };
 		6B456F7B264E459000A6F577 /* InstructionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B456F7A264E459000A6F577 /* InstructionsViewController.swift */; };
@@ -38,6 +39,7 @@
 		0422509D265DC87500E63012 /* HistorialResultadosVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistorialResultadosVC.swift; sourceTree = "<group>"; };
 		042250A3265DCC8800E63012 /* ResultCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultCell.swift; sourceTree = "<group>"; };
 		042250A7265DD12E00E63012 /* JuegosVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosVC.swift; sourceTree = "<group>"; };
+		04316BD0265F100900B3D353 /* ConfiguracionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfiguracionVC.swift; sourceTree = "<group>"; };
 		04D03E65265DB35D00F93611 /* EditarPerfilVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditarPerfilVC.swift; sourceTree = "<group>"; };
 		6B0F6B7D264E295300BB4CEB /* view.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = view.swift; sourceTree = "<group>"; };
 		6B456F7A264E459000A6F577 /* InstructionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsViewController.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				0422509D265DC87500E63012 /* HistorialResultadosVC.swift */,
 				042250A3265DCC8800E63012 /* ResultCell.swift */,
 				042250A7265DD12E00E63012 /* JuegosVC.swift */,
+				04316BD0265F100900B3D353 /* ConfiguracionVC.swift */,
 			);
 			path = Configuracion;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 				AAB1B8FC263F4CB400437D66 /* QuestionTemplateViewController.swift in Sources */,
 				CCF388022630BC940099B004 /* CourseTableViewController.swift in Sources */,
 				6BC13D3C26314365007D7E44 /* TrueFalse.swift in Sources */,
+				04316BD1265F100900B3D353 /* ConfiguracionVC.swift in Sources */,
 				6B9772F9262DC22D007DDEDF /* SceneDelegate.swift in Sources */,
 				042250A4265DCC8800E63012 /* ResultCell.swift in Sources */,
 				AACB51D526436B5F00B32B8A /* GameOverViewController.swift in Sources */,

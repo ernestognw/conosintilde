@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0422509E265DC87500E63012 /* HistorialResultadosVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0422509D265DC87500E63012 /* HistorialResultadosVC.swift */; };
+		042250A4265DCC8800E63012 /* ResultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042250A3265DCC8800E63012 /* ResultCell.swift */; };
+		042250A8265DD12E00E63012 /* JuegosVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042250A7265DD12E00E63012 /* JuegosVC.swift */; };
 		04D03E66265DB35D00F93611 /* EditarPerfilVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D03E65265DB35D00F93611 /* EditarPerfilVC.swift */; };
 		6B0F6B7E264E295300BB4CEB /* view.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B0F6B7D264E295300BB4CEB /* view.swift */; };
 		6B456F7B264E459000A6F577 /* InstructionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B456F7A264E459000A6F577 /* InstructionsViewController.swift */; };
@@ -32,6 +35,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0422509D265DC87500E63012 /* HistorialResultadosVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistorialResultadosVC.swift; sourceTree = "<group>"; };
+		042250A3265DCC8800E63012 /* ResultCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultCell.swift; sourceTree = "<group>"; };
+		042250A7265DD12E00E63012 /* JuegosVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosVC.swift; sourceTree = "<group>"; };
 		04D03E65265DB35D00F93611 /* EditarPerfilVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditarPerfilVC.swift; sourceTree = "<group>"; };
 		6B0F6B7D264E295300BB4CEB /* view.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = view.swift; sourceTree = "<group>"; };
 		6B456F7A264E459000A6F577 /* InstructionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsViewController.swift; sourceTree = "<group>"; };
@@ -69,6 +75,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		042250A0265DCA6400E63012 /* Configuracion */ = {
+			isa = PBXGroup;
+			children = (
+				04D03E65265DB35D00F93611 /* EditarPerfilVC.swift */,
+				0422509D265DC87500E63012 /* HistorialResultadosVC.swift */,
+				042250A3265DCC8800E63012 /* ResultCell.swift */,
+				042250A7265DD12E00E63012 /* JuegosVC.swift */,
+			);
+			path = Configuracion;
+			sourceTree = "<group>";
+		};
 		6B9772EA262DC22D007DDEDF = {
 			isa = PBXGroup;
 			children = (
@@ -93,10 +110,10 @@
 				6B9772F8262DC22D007DDEDF /* SceneDelegate.swift */,
 				6B9772FA262DC22D007DDEDF /* MenuController.swift */,
 				6B9772FC262DC22D007DDEDF /* Main.storyboard */,
-				04D03E65265DB35D00F93611 /* EditarPerfilVC.swift */,
 				AACB51D426436B5F00B32B8A /* GameOverViewController.swift */,
 				6BC13D3726313D2C007D7E44 /* AccentDetail.swift */,
 				CCF388042630C21A0099B004 /* Course.swift */,
+				042250A0265DCA6400E63012 /* Configuracion */,
 				AAB1B8FE263F4CBD00437D66 /* QuestionMVCC */,
 				CCF388012630BC940099B004 /* CourseTableViewController.swift */,
 				6B9772FF262DC22D007DDEDF /* Assets.xcassets */,
@@ -219,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B0F6B7E264E295300BB4CEB /* view.swift in Sources */,
+				042250A8265DD12E00E63012 /* JuegosVC.swift in Sources */,
 				6B456F7B264E459000A6F577 /* InstructionsViewController.swift in Sources */,
 				6BC13D4926314809007D7E44 /* TrueFalseControllerViewController.swift in Sources */,
 				6BC13D3826313D2C007D7E44 /* AccentDetail.swift in Sources */,
@@ -230,11 +248,13 @@
 				04D03E66265DB35D00F93611 /* EditarPerfilVC.swift in Sources */,
 				6BC13D4626314394007D7E44 /* Relate.swift in Sources */,
 				CCF388052630C21A0099B004 /* Course.swift in Sources */,
+				0422509E265DC87500E63012 /* HistorialResultadosVC.swift in Sources */,
 				6BC13D432631438B007D7E44 /* Checklist.swift in Sources */,
 				AAB1B8FC263F4CB400437D66 /* QuestionTemplateViewController.swift in Sources */,
 				CCF388022630BC940099B004 /* CourseTableViewController.swift in Sources */,
 				6BC13D3C26314365007D7E44 /* TrueFalse.swift in Sources */,
 				6B9772F9262DC22D007DDEDF /* SceneDelegate.swift in Sources */,
+				042250A4265DCC8800E63012 /* ResultCell.swift in Sources */,
 				AACB51D526436B5F00B32B8A /* GameOverViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

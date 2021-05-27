@@ -6,9 +6,14 @@
 //
 
 import UIKit
-
+enum GAMETYPE {
+    case AGUDAS
+    case GRAVES
+    case ESDRUJULAS
+}
 class AccentDetail: UIViewController {
     var level : Int!
+    var gameType : GAMETYPE!
     
     override func viewDidLoad() {
         super.viewDidLoad()

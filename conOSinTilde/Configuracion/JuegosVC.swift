@@ -1,13 +1,13 @@
 //
-//  CourseTableViewController.swift
+//  JuegosVC.swift
 //  conOSinTilde
 //
-//  Created by Rodrigo Casale on 21/04/21.
+//  Created by Pamela Lozano on 25/05/21.
 //
 
 import UIKit
 
-class CourseTableViewController: UITableViewController {
+class JuegosVC: UITableViewController {
     
     
     var courses = [
@@ -68,7 +68,7 @@ class CourseTableViewController: UITableViewController {
             tableView.deleteRows(at: [indexPath], with: .fade)
         } else if editingStyle == .insert {
             // Create a new instance of the appropriate class, insert it into the array, and add a new row to the table view
-        }    
+        }
     }
     */
 
@@ -87,7 +87,8 @@ class CourseTableViewController: UITableViewController {
     }
     */
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        self.performSegue(withIdentifier: String(indexPath.section), sender: indexPath)
+        print(indexPath)
+       self.performSegue(withIdentifier: "historial", sender: indexPath)
     }
     
     // MARK: - Navigation
@@ -96,26 +97,29 @@ class CourseTableViewController: UITableViewController {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         // Get the new view controller using segue.destination.
         // Pass the selected object to the new view controller.
-        if let svc = segue.destination as? AccentDetail {
+        if let svc = segue.destination as? HistorialResultadosVC {
             let indexPath = sender as! IndexPath
-            svc.level = indexPath.row
+            if indexPath.row == 0 {
+                svc.game = "TRUEFALSE"
+            } else if indexPath.row == 1 {
+                svc.game = "CHECKLIST"
+            } else if indexPath.row == 2 {
+                svc.game = "RELATE"
+            }
             
             if indexPath.section == 0 {
                 svc.title = "Agudas"
-                svc.gameType = .AGUDAS
+                svc.type = "agudas_"
             } else if indexPath.section == 1 {
                 svc.title = "Graves"
-                svc.gameType = .GRAVES
+                svc.type = "graves_"
             } else if indexPath.section == 2 {
                 svc.title = "Esdrújulas"
-                svc.gameType = .ESDRUJULAS
+                svc.type = "esdrujulas_"
             }
         }
     }
-    
-    @IBAction func goBack() {
-        dismiss(animated: true)
-    }
+
     
 
 }

@@ -25,6 +25,7 @@ class RelateViewController: UIViewController {
     var wordsCorrect : Array<Bool> = Array()
     var correct: Int!
     var highscores: [Int]?
+    var gameType: GAMETYPE!
     
     @IBOutlet weak var countLb: UILabel!
     @IBOutlet weak var resultLb: UILabel!

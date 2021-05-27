@@ -37,7 +37,7 @@ class ChecklistViewController : UIViewController, UITableViewDelegate, UITableVi
     var selectedRows: [Int] = []
     var highscores: [Int]?
     var correctCount = 0
-    
+
     var gameType:GAMETYPE!
 
     @IBOutlet weak var countLb: UILabel!
@@ -50,7 +50,7 @@ class ChecklistViewController : UIViewController, UITableViewDelegate, UITableVi
         super.viewDidLoad()
         super.viewDidLoad()
         //Obtener array de ejercicios
-        let dictionary = NSDictionary(contentsOfFile: Bundle.main.path(forResource: "agudas", ofType: "plist")!);
+        let dictionary = NSDictionary(contentsOfFile: Bundle.main.path(forResource: getGameType(), ofType: "plist")!);
         self.wordsArray = (dictionary?["CHECKLIST"] as! NSArray)
         self.arraySize = wordsArray!.count
         wordControl = Array(repeating: false, count: self.arraySize!)
@@ -62,18 +62,18 @@ class ChecklistViewController : UIViewController, UITableViewDelegate, UITableVi
         table.allowsMultipleSelection = true
         
         let defaults = UserDefaults.standard
-        highscores = defaults.object(forKey: getGameType() + "CHECKLIST") as? [Int] ?? [Int]()
+        highscores = defaults.object(forKey: getGameType() + "_CHECKLIST") as? [Int] ?? [Int]()
         // Do any additional setup after loading the view.
     }
     
     func getGameType() -> String {
         switch gameType {
         case .AGUDAS:
-            return "agudas_"
+            return "agudas"
         case .GRAVES:
-            return "graves_"
+            return "graves"
         case .ESDRUJULAS:
-            return "esdrujulas_"
+            return "esdrujulas"
         default:
             return ""
         }
@@ -97,14 +97,14 @@ class ChecklistViewController : UIViewController, UITableViewDelegate, UITableVi
                 for (index, score) in highscores!.enumerated() {
                     if (counter > score) {
                         highscores![index] = counter
-                        defaults.set(highscores, forKey: "agudas_" + "CHECKLIST")
+                        defaults.set(highscores, forKey: getGameType() + "_CHECKLIST")
                         break
                     }
                  }
             }
             else {
                 highscores!.append(counter)
-                defaults.set(highscores, forKey: "agudas_" + "CHECKLIST")
+                defaults.set(highscores, forKey: getGameType() + "_CHECKLIST")
             }
 
             self.performSegue(withIdentifier: "game_over", sender: nil)

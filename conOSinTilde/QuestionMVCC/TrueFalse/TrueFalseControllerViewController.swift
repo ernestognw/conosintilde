@@ -29,6 +29,7 @@ class TrueFalseControllerViewController: UIViewController {
     var arraySize : Int?
     var correcto: Bool?
     var highscores: [Int]?
+    var gameType:GAMETYPE!
     
     var counter=1
     @IBOutlet weak var countLb: UILabel!
@@ -52,6 +53,19 @@ class TrueFalseControllerViewController: UIViewController {
         getNewGame()
         
         
+    }
+    
+    func getGameType() -> String {
+        switch gameType {
+        case .AGUDAS:
+            return "agudas_"
+        case .GRAVES:
+            return "graves_"
+        case .ESDRUJULAS:
+            return "esdrujulas_"
+        default:
+            return ""
+        }
     }
     
     @IBAction func BotonVerdadero(_ sender: Any) {
@@ -78,7 +92,7 @@ class TrueFalseControllerViewController: UIViewController {
         super.viewDidDisappear(true)
         print("load data")
         let defaults = UserDefaults.standard
-        highscores = defaults.object(forKey: "agudas_" + "TRUEFALSE") as? [Int] ?? [Int]()
+        highscores = defaults.object(forKey: getGameType() + "TRUEFALSE") as? [Int] ?? [Int]()
         print(highscores!)
        
     }

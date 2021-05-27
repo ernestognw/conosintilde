@@ -26,6 +26,8 @@
 		6BC13D432631438B007D7E44 /* Checklist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC13D422631438B007D7E44 /* Checklist.swift */; };
 		6BC13D4626314394007D7E44 /* Relate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC13D4526314394007D7E44 /* Relate.swift */; };
 		6BC13D4926314809007D7E44 /* TrueFalseControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC13D4826314809007D7E44 /* TrueFalseControllerViewController.swift */; };
+		AA4C12A126601B6500617B17 /* graves.plist in Resources */ = {isa = PBXBuildFile; fileRef = AA4C12A026601B6500617B17 /* graves.plist */; };
+		AA4C12A426601B6D00617B17 /* esdrujulas.plist in Resources */ = {isa = PBXBuildFile; fileRef = AA4C12A326601B6C00617B17 /* esdrujulas.plist */; };
 		AAB1B8FC263F4CB400437D66 /* QuestionTemplateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB1B8FB263F4CB400437D66 /* QuestionTemplateViewController.swift */; };
 		AAB1B900263F4CE700437D66 /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB1B8FF263F4CE700437D66 /* ChecklistViewController.swift */; };
 		AAB1B907263F508100437D66 /* RelateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB1B906263F508100437D66 /* RelateViewController.swift */; };
@@ -57,6 +59,8 @@
 		6BC13D422631438B007D7E44 /* Checklist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checklist.swift; sourceTree = "<group>"; };
 		6BC13D4526314394007D7E44 /* Relate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Relate.swift; sourceTree = "<group>"; };
 		6BC13D4826314809007D7E44 /* TrueFalseControllerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrueFalseControllerViewController.swift; sourceTree = "<group>"; };
+		AA4C12A026601B6500617B17 /* graves.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = graves.plist; sourceTree = "<group>"; };
+		AA4C12A326601B6C00617B17 /* esdrujulas.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = esdrujulas.plist; sourceTree = "<group>"; };
 		AAB1B8FB263F4CB400437D66 /* QuestionTemplateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionTemplateViewController.swift; sourceTree = "<group>"; };
 		AAB1B8FF263F4CE700437D66 /* ChecklistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistViewController.swift; sourceTree = "<group>"; };
 		AAB1B906263F508100437D66 /* RelateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelateViewController.swift; sourceTree = "<group>"; };
@@ -123,6 +127,8 @@
 				6B977301262DC22D007DDEDF /* LaunchScreen.storyboard */,
 				6B977304262DC22D007DDEDF /* Info.plist */,
 				6BC13D2F26313793007D7E44 /* agudas.plist */,
+				AA4C12A026601B6500617B17 /* graves.plist */,
+				AA4C12A326601B6C00617B17 /* esdrujulas.plist */,
 				6B0F6B7D264E295300BB4CEB /* view.swift */,
 			);
 			path = conOSinTilde;
@@ -227,6 +233,8 @@
 				6B977303262DC22D007DDEDF /* LaunchScreen.storyboard in Resources */,
 				6B977300262DC22D007DDEDF /* Assets.xcassets in Resources */,
 				6B9772FE262DC22D007DDEDF /* Main.storyboard in Resources */,
+				AA4C12A126601B6500617B17 /* graves.plist in Resources */,
+				AA4C12A426601B6D00617B17 /* esdrujulas.plist in Resources */,
 				6BC13D3026313793007D7E44 /* agudas.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

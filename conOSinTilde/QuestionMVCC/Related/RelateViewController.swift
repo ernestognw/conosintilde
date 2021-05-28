@@ -117,25 +117,39 @@ class RelateViewController: UIViewController {
         super.viewDidDisappear(true)
         print("load data")
         let defaults = UserDefaults.standard
-        highscores = defaults.object(forKey: "agudas_" + "RELATE") as? [Int] ?? [Int]()
+        highscores = defaults.object(forKey: getGameType() + "_RELATE") as? [Int] ?? [Int]()
         print(highscores!)
        
     }
+    
+    func getGameType() -> String {
+        switch gameType {
+        case .AGUDAS:
+            return "agudas"
+        case .GRAVES:
+            return "graves"
+        case .ESDRUJULAS:
+            return "esdrujulas"
+        default:
+            return ""
+        }
+    }
+    
     func endGame() {
         let defaults = UserDefaults.standard
         if (highscores!.count > 5) {
             highscores!.sort { (lhs, rhs) in return lhs < rhs }
             for (index, score) in highscores!.enumerated() {
                 if (counter > score) {
-                    highscores![index] = counter
-                    defaults.set(highscores, forKey: "agudas_" + "RELATE")
+                    highscores![index] = counter - 1
+                    defaults.set(highscores, forKey: getGameType() + "_RELATE")
                     break
                 }
              }
         }
         else {
-            highscores!.append(counter)
-            defaults.set(highscores, forKey: "agudas_" + "RELATE")
+            highscores!.append(counter - 1)
+            defaults.set(highscores, forKey: getGameType() + "_RELATE")
         }
 
         self.performSegue(withIdentifier: "game_over", sender: nil)
@@ -419,7 +433,7 @@ class RelateViewController: UIViewController {
         // Get the new view controller using segue.destination.
         // Pass the selected object to the new view controller.
         if let svc = segue.destination as? GameOverViewController {
-            svc.counter = counter
+            svc.counter = counter - 1
             svc.message_string = "Lastima haz perdido!"
             svc.highscore =  counter
         }

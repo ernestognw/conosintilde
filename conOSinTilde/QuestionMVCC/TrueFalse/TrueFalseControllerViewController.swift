@@ -45,7 +45,7 @@ class TrueFalseControllerViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         //Obtener array de ejercicios
-        let dictionary = NSDictionary(contentsOfFile: Bundle.main.path(forResource: "agudas", ofType: "plist")!);
+        let dictionary = NSDictionary(contentsOfFile: Bundle.main.path(forResource: getGameType(), ofType: "plist")!);
         self.wordsArray = (dictionary?["TRUEFALSE"] as! NSArray)
         self.arraySize = wordsArray!.count
         wordControl = Array(repeating: false, count: self.arraySize!)
@@ -58,11 +58,11 @@ class TrueFalseControllerViewController: UIViewController {
     func getGameType() -> String {
         switch gameType {
         case .AGUDAS:
-            return "agudas_"
+            return "aguda"
         case .GRAVES:
-            return "graves_"
+            return "graves"
         case .ESDRUJULAS:
-            return "esdrujulas_"
+            return "esdrujulas"
         default:
             return ""
         }
@@ -92,7 +92,7 @@ class TrueFalseControllerViewController: UIViewController {
         super.viewDidDisappear(true)
         print("load data")
         let defaults = UserDefaults.standard
-        highscores = defaults.object(forKey: getGameType() + "TRUEFALSE") as? [Int] ?? [Int]()
+        highscores = defaults.object(forKey: getGameType() + "_TRUEFALSE") as? [Int] ?? [Int]()
         print(highscores!)
        
     }
@@ -104,15 +104,15 @@ class TrueFalseControllerViewController: UIViewController {
                 highscores!.sort { (lhs, rhs) in return lhs < rhs }
                 for (index, score) in highscores!.enumerated() {
                     if (counter > score) {
-                        highscores![index] = counter
-                        defaults.set(highscores, forKey: "agudas_" + "TRUEFALSE")
+                        highscores![index] = counter - 1
+                        defaults.set(highscores, forKey: getGameType() + "_TRUEFALSE")
                         break
                     }
                  }
             }
             else {
-                highscores!.append(counter)
-                defaults.set(highscores, forKey: "agudas_" + "TRUEFALSE")
+                highscores!.append(counter - 1)
+                defaults.set(highscores, forKey: getGameType() + "_TRUEFALSE")
             }
 
             self.performSegue(withIdentifier: "game_over", sender: nil)
@@ -151,6 +151,8 @@ class TrueFalseControllerViewController: UIViewController {
         questionLb.text = question
     }
     
+    
+    
     func showResult(){
         
         falseBtn.isEnabled = false
@@ -175,7 +177,7 @@ class TrueFalseControllerViewController: UIViewController {
         // Get the new view controller using segue.destination.
         // Pass the selected object to the new view controller.
         if let svc = segue.destination as? GameOverViewController {
-            svc.counter = counter
+            svc.counter = counter - 1
             svc.message_string = "Lastima haz perdido!"
             svc.highscore =  counter
         }

@@ -96,14 +96,14 @@ class ChecklistViewController : UIViewController, UITableViewDelegate, UITableVi
                 highscores!.sort { (lhs, rhs) in return lhs < rhs }
                 for (index, score) in highscores!.enumerated() {
                     if (counter > score) {
-                        highscores![index] = counter
+                        highscores![index] = counter - 1
                         defaults.set(highscores, forKey: getGameType() + "_CHECKLIST")
                         break
                     }
                  }
             }
             else {
-                highscores!.append(counter)
+                highscores!.append(counter - 1)
                 defaults.set(highscores, forKey: getGameType() + "_CHECKLIST")
             }
 

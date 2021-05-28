@@ -110,7 +110,7 @@ class TrueFalseControllerViewController: UIViewController {
                     }
                  }
             }
-            else {
+            else if (counter > 0) {
                 highscores!.append(counter - 1)
                 defaults.set(highscores, forKey: getGameType() + "_TRUEFALSE")
             }

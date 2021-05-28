@@ -19,6 +19,8 @@ class HistorialResultadosVC: UIViewController, UITableViewDelegate, UITableViewD
         var key = type! + game!
         print(key)
         highscores = defaults.object(forKey: key) as? [Int] ?? [Int]()
+        highscores!.sort { (lhs, rhs) in return lhs > rhs }
+        
         print(highscores)
 
         // Do any additional setup after loading the view.

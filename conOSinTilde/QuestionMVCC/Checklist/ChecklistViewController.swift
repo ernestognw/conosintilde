@@ -48,7 +48,6 @@ class ChecklistViewController : UIViewController, UITableViewDelegate, UITableVi
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        super.viewDidLoad()
         //Obtener array de ejercicios
         let dictionary = NSDictionary(contentsOfFile: Bundle.main.path(forResource: getGameType(), ofType: "plist")!);
         self.wordsArray = (dictionary?["CHECKLIST"] as! NSArray)
@@ -65,6 +64,7 @@ class ChecklistViewController : UIViewController, UITableViewDelegate, UITableVi
         highscores = defaults.object(forKey: getGameType() + "_CHECKLIST") as? [Int] ?? [Int]()
         // Do any additional setup after loading the view.
     }
+    
     
     func getGameType() -> String {
         switch gameType {
@@ -117,6 +117,7 @@ class ChecklistViewController : UIViewController, UITableViewDelegate, UITableVi
         continueBtn.isEnabled = false
         resultLb.text=""
         countLb.text=String(counter)
+        correctCount = 0
         
         //Numero random de pregunta
         var randomInt = Int.random(in: 0..<(self.arraySize!-1))
@@ -141,8 +142,11 @@ class ChecklistViewController : UIViewController, UITableViewDelegate, UITableVi
               }
             print(correct)
             correctCount =  correctCount + (correct == true ? 1 : 0)
+            print(correctCount)
             let object = Word.init(word: word, correct: correct)
             wordArr.append(object)
+            print(wordArr.count)
+
           }
 
         

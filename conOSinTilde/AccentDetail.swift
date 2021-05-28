@@ -34,11 +34,14 @@ class AccentDetail: UIViewController {
     // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         let svc = segue.destination as? InstructionsViewController
-        
+        svc?.level = level
+        svc?.gameType = gameType
         if segue.identifier == "true_false" {
             svc?.title = "Verdadero o falso"
+          
         } else if segue.identifier == "checklist" {
             svc?.title = "Checklist"
+
         } else if segue.identifier == "relate" {
             svc?.title = "Relaciona"
         }

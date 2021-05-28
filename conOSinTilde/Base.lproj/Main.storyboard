@@ -476,10 +476,12 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="647"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tlK-oR-hzF">
-                                <rect key="frame" x="97" y="125" width="180" height="59"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tlK-oR-hzF">
+                                <rect key="frame" x="98" y="193.5" width="179" height="60"/>
                                 <color key="backgroundColor" systemColor="systemTealColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="60" id="tTQ-9b-ZWg"/>
+                                </constraints>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <state key="normal" title="Editar Perfil"/>
@@ -487,10 +489,12 @@
                                     <segue destination="L3l-VU-CDD" kind="push" id="RGl-lp-XNM"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dxn-e1-4gr">
-                                <rect key="frame" x="97" y="376" width="180" height="59"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dxn-e1-4gr">
+                                <rect key="frame" x="98" y="393.5" width="179" height="60"/>
                                 <color key="backgroundColor" systemColor="systemTealColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="60" id="BPE-Q6-SIP"/>
+                                </constraints>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <state key="normal" title="Historial de Resultados"/>
@@ -498,10 +502,12 @@
                                     <segue destination="DsZ-PC-Bwz" kind="push" id="NAO-V1-Bqy"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6D6-eW-FuT">
-                                <rect key="frame" x="97" y="246" width="180" height="59"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6D6-eW-FuT">
+                                <rect key="frame" x="98" y="293.5" width="179" height="60"/>
                                 <color key="backgroundColor" systemColor="systemTealColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="60" id="BMc-SM-MuM"/>
+                                </constraints>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <state key="normal" title="Borrar Progreso"/>
@@ -512,6 +518,20 @@
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="fbH-Lz-ehd"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="6D6-eW-FuT" firstAttribute="top" secondItem="tlK-oR-hzF" secondAttribute="bottom" constant="40" id="FFc-Uy-1y5"/>
+                            <constraint firstItem="fbH-Lz-ehd" firstAttribute="trailing" secondItem="6D6-eW-FuT" secondAttribute="trailing" constant="98" id="KWH-Fk-eQB"/>
+                            <constraint firstItem="fbH-Lz-ehd" firstAttribute="trailing" secondItem="tlK-oR-hzF" secondAttribute="trailing" constant="98" id="KWy-WU-eah"/>
+                            <constraint firstItem="Dxn-e1-4gr" firstAttribute="leading" secondItem="fbH-Lz-ehd" secondAttribute="leading" constant="98" id="KfT-57-tMB"/>
+                            <constraint firstItem="6D6-eW-FuT" firstAttribute="leading" secondItem="fbH-Lz-ehd" secondAttribute="leading" constant="98" id="LrF-Gh-lPA"/>
+                            <constraint firstItem="Dxn-e1-4gr" firstAttribute="top" secondItem="6D6-eW-FuT" secondAttribute="bottom" constant="40" id="MRR-ms-x0m"/>
+                            <constraint firstItem="Dxn-e1-4gr" firstAttribute="centerX" secondItem="DD0-5A-V2m" secondAttribute="centerX" id="USG-Pi-d8p"/>
+                            <constraint firstItem="fbH-Lz-ehd" firstAttribute="trailing" secondItem="Dxn-e1-4gr" secondAttribute="trailing" constant="98" id="XaJ-jH-M8h"/>
+                            <constraint firstItem="6D6-eW-FuT" firstAttribute="centerX" secondItem="DD0-5A-V2m" secondAttribute="centerX" id="b7R-Yv-2Es"/>
+                            <constraint firstItem="6D6-eW-FuT" firstAttribute="centerY" secondItem="DD0-5A-V2m" secondAttribute="centerY" id="dgq-8n-JYc"/>
+                            <constraint firstItem="tlK-oR-hzF" firstAttribute="centerX" secondItem="DD0-5A-V2m" secondAttribute="centerX" id="mjP-uX-yZr"/>
+                            <constraint firstItem="tlK-oR-hzF" firstAttribute="leading" secondItem="fbH-Lz-ehd" secondAttribute="leading" constant="98" id="rRo-E3-RaH"/>
+                        </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Configuración" id="MVO-gz-UuN"/>
                 </viewController>
@@ -2136,10 +2156,10 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="Y4p-rt-32E"/>
-        <segue reference="bye-Bh-6DW"/>
+        <segue reference="c3q-ih-wxk"/>
+        <segue reference="XXE-4L-ueV"/>
         <segue reference="n1V-3A-lea"/>
-        <segue reference="BUa-YU-SSX"/>
+        <segue reference="yvT-se-IHD"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="background" width="700" height="1155"/>

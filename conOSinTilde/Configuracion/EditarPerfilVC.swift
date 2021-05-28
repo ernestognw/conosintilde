@@ -62,6 +62,7 @@ class EditarPerfilVC: UIViewController, UIImagePickerControllerDelegate, UINavig
     func guardarDatos(){
         if let usuario = tfUsuario.text {
             defaults.setValue(usuario, forKey: "nombreUsuario")
+            dismiss(animated: true, completion: nil)
         }
     }
 

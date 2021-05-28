@@ -96,7 +96,6 @@
 		6B9772EA262DC22D007DDEDF = {
 			isa = PBXGroup;
 			children = (
-				6B456F7A264E459000A6F577 /* InstructionsViewController.swift */,
 				6B9772F5262DC22D007DDEDF /* conOSinTilde */,
 				6B9772F4262DC22D007DDEDF /* Products */,
 			);
@@ -119,17 +118,18 @@
 				6B9772FC262DC22D007DDEDF /* Main.storyboard */,
 				AACB51D426436B5F00B32B8A /* GameOverViewController.swift */,
 				6BC13D3726313D2C007D7E44 /* AccentDetail.swift */,
+				6B456F7A264E459000A6F577 /* InstructionsViewController.swift */,
 				CCF388042630C21A0099B004 /* Course.swift */,
+				6B0F6B7D264E295300BB4CEB /* view.swift */,
+				CCF388012630BC940099B004 /* CourseTableViewController.swift */,
 				042250A0265DCA6400E63012 /* Configuracion */,
 				AAB1B8FE263F4CBD00437D66 /* QuestionMVCC */,
-				CCF388012630BC940099B004 /* CourseTableViewController.swift */,
 				6B9772FF262DC22D007DDEDF /* Assets.xcassets */,
 				6B977301262DC22D007DDEDF /* LaunchScreen.storyboard */,
 				6B977304262DC22D007DDEDF /* Info.plist */,
 				6BC13D2F26313793007D7E44 /* agudas.plist */,
 				AA4C12A026601B6500617B17 /* graves.plist */,
 				AA4C12A326601B6C00617B17 /* esdrujulas.plist */,
-				6B0F6B7D264E295300BB4CEB /* view.swift */,
 			);
 			path = conOSinTilde;
 			sourceTree = "<group>";

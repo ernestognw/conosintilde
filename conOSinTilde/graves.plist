@@ -406,10 +406,10 @@
 		</dict>
 	</array>
 	<key>CHECKLIST</key>
-    <array>
+	<array>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -458,7 +458,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -507,7 +507,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -556,7 +556,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -605,7 +605,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -654,7 +654,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -703,7 +703,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -752,7 +752,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -801,7 +801,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -850,7 +850,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -899,7 +899,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -948,7 +948,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -997,7 +997,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -1046,7 +1046,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -1095,7 +1095,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -1141,10 +1141,10 @@
                     <false/>
                 </dict>
             </array>
-        </dict>
+            </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -1193,7 +1193,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -1242,7 +1242,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -1291,7 +1291,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -1340,7 +1340,7 @@
             </dict>
         <dict>
             <key>question</key>
-            <string>Seleccione las preguntas que son graves y les falta acento</string>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
             <key>words</key>
             <array>
                 <dict>
@@ -1387,7 +1387,1723 @@
                 </dict>
             </array>
             </dict>
-	</array>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>cuello</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>corre</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>gusano</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>estructura</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>femur</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>alcancia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>abanico</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>perro</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>arena</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>atento</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>pera</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>gato</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>remera</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>poliester</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>abrigo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>redacta</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>banco</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>gordo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>oso</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>condor</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>item</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>antes</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>estadio</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>lima</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cuaderno</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>energia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cabello</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>psicologia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>etologia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>observaria</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>egoista</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>policia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>eter</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>saludo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>estima</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>automovil</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cotorra</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>galaxias</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>come</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>brasilia</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>geologia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>domingo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>roble</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>piedra</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cuchara</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>eucalipto</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cuenta</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>lider</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>roca</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>revisa</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>abeja</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>aire</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>avispa</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>colmillo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>linea</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cortinas</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>habil</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>crater</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>caminata</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>agonia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>pantera</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>album</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cerrajeria</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>genio</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>bota</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>pelo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>amarillo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cria</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>pesta�as</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>ingenio</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>banquero</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>poesia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>ensalada</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cable</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>pierna</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>arena</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>climax</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>biologia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>zarza</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>buho</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>genio</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>espa�a</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cocodrilo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>trebol</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>fruta</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>conjuro</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>corre</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>dinamarca</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>hernandez</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>haria</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>resumen</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>colcha</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>ombligo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>adorno</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>oso</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>estructura</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>superpone</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>hormigas</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>agua</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cabello</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>higuera</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cuanto</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cuanto</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>muestra</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>fruta</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>record</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cesped</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>abuela</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>estima</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cigarra</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>caoba</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>consume</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>disco</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>elefante</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>conejo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>jirafa</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>portatil</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cerdo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>fragil</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>albahaca</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>bahia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>lapiz</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>sapo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>hamster</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>ganado</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>dolar</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>perro</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>tigre</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>estrellas</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>praga</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>quito</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>volatil</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>mallorca</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>dormia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>calzado</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>elefante</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cabra</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>avispa</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>pesta�as</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>banco</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>ballena</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>rio</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>alfombra</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>plancha</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>rana</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>pone</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>abasto</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>adorno</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>sandia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>amazonas</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>camaraderia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>nube</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>olmo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>aguacate</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>cedro</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>ketchup</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>versatil</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>barcelona</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cuaderno</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>colcha</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>naranja</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>agil</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>analogia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>buena</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>resumen</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>asume</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>pluma</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>rinoceronte</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>gato</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>angel</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>alegria</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>sofia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>ropa</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>frutilla</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>suiza</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>cortazar</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>sanchez</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>superpone</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>amazonas</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>zoologia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>ara�a</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>ensalada</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>azucar</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>forceps</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>�scar</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cancer</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>acedia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>puerto</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>calzado</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>filipinas</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>pera</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>plancha</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>romero</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>rugia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>mochila</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cuello</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>juega</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cartagena</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>dominguez</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>manzana</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>diente</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>simil</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>suecia</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>sevilla</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>procer</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>toner</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>toronja</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>acuarela</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>jugo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cristobal</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>mochila</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>ganado</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>apologia</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>suerte</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cachetes</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cesar</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>fluor</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>facil</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>amarillo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>tapado</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>alegria</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>tailandia</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>suerte</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>uva</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>pluma</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>silla</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>mesa</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>torax</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>conjuro</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>piedra</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>cuervo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>hormigas</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>santo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>sucre</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>trebol</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>galaxias</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>docil</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>desordena</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+        <dict>
+            <key>question</key>
+            <string>Seleccione las palabras que son graves y les falta acento</string>
+            <key>words</key>
+            <array>
+                <dict>
+                    <key>word</key>
+                    <string>gato</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>puerto</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>periquito</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>tunel</string>
+                    <key>correct</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>asume</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>abrigo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+                <dict>
+                    <key>word</key>
+                    <string>pelo</string>
+                    <key>correct</key>
+                    <false/>
+                </dict>
+            </array>
+            </dict>
+
+    </array>
 	<key>RELATE</key>
 	<array>
 		<dict>

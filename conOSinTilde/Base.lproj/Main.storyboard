@@ -768,7 +768,7 @@
                                 </attributedString>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Seleccionar" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E1z-ZL-YFU">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Seleccionar" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E1z-ZL-YFU">
                                 <rect key="frame" x="16" y="326" width="108" height="24"/>
                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
                                 <nil key="textColor"/>
@@ -788,7 +788,7 @@
                                 </attributedString>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Relacionar" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lFu-nm-hW1">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Relacionar" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lFu-nm-hW1">
                                 <rect key="frame" x="16" y="442" width="97" height="24"/>
                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
                                 <nil key="textColor"/>
@@ -819,6 +819,7 @@
                             <constraint firstItem="cvz-Vg-iz6" firstAttribute="top" secondItem="gVu-i6-4K0" secondAttribute="bottom" constant="31" id="Bj7-EH-fZV"/>
                             <constraint firstItem="2Sv-Wv-aUf" firstAttribute="centerX" secondItem="hmW-gj-rSA" secondAttribute="centerX" id="DQf-5g-hp6"/>
                             <constraint firstItem="T3s-7w-vG9" firstAttribute="height" secondItem="tWo-CG-EXq" secondAttribute="height" id="DXY-MS-QUx"/>
+                            <constraint firstItem="lFu-nm-hW1" firstAttribute="leading" secondItem="Ahl-me-QKH" secondAttribute="leading" constant="16" id="EL1-mU-QJy"/>
                             <constraint firstItem="T3s-7w-vG9" firstAttribute="leading" secondItem="Ahl-me-QKH" secondAttribute="leading" constant="16" id="FRC-TD-0Az"/>
                             <constraint firstItem="T3s-7w-vG9" firstAttribute="top" secondItem="lFu-nm-hW1" secondAttribute="bottom" constant="8" symbolic="YES" id="K5i-tr-pSr"/>
                             <constraint firstItem="cvz-Vg-iz6" firstAttribute="leading" secondItem="Ahl-me-QKH" secondAttribute="leading" constant="16" id="QkF-nN-BSu"/>
@@ -834,6 +835,7 @@
                             <constraint firstItem="cRD-Aa-G7Q" firstAttribute="top" secondItem="E1z-ZL-YFU" secondAttribute="bottom" constant="8" symbolic="YES" id="qKn-ne-IGK"/>
                             <constraint firstItem="Ahl-me-QKH" firstAttribute="trailing" secondItem="cRD-Aa-G7Q" secondAttribute="trailing" constant="16" id="sGD-hh-eMB"/>
                             <constraint firstItem="tWo-CG-EXq" firstAttribute="top" secondItem="cvz-Vg-iz6" secondAttribute="bottom" constant="8" symbolic="YES" id="sZz-Re-mxP"/>
+                            <constraint firstItem="E1z-ZL-YFU" firstAttribute="leading" secondItem="Ahl-me-QKH" secondAttribute="leading" constant="16" id="vw4-6T-l3P"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="v6N-mb-UGF"/>

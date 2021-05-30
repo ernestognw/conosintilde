@@ -48,6 +48,7 @@ class EditarPerfilVC: UIViewController, UIImagePickerControllerDelegate, UINavig
     
     @IBAction func guardarConfiguracion(_ sender: UIButton) {
         guardarDatos()
+        dismiss(animated: true, completion: nil)
     }
     
     @IBAction func quitarKeyboard(_ sender: UITapGestureRecognizer) {
@@ -62,7 +63,7 @@ class EditarPerfilVC: UIViewController, UIImagePickerControllerDelegate, UINavig
     func guardarDatos(){
         if let usuario = tfUsuario.text {
             defaults.setValue(usuario, forKey: "nombreUsuario")
-            dismiss(animated: true, completion: nil)
+            
         }
     }
 

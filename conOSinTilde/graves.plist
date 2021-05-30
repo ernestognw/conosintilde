@@ -6,7 +6,7 @@
 	<array>
     <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>abrelatas</string>
 			<key>answer</key>
@@ -14,7 +14,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>util</string>
 			<key>answer</key>
@@ -22,7 +22,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>tunel</string>
 			<key>answer</key>
@@ -30,7 +30,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>póquer</string>
 			<key>answer</key>
@@ -38,7 +38,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>consulta</string>
 			<key>answer</key>
@@ -46,7 +46,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>crimen</string>
 			<key>answer</key>
@@ -54,7 +54,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>cóndor</string>
 			<key>answer</key>
@@ -62,7 +62,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>abanico</string>
 			<key>answer</key>
@@ -70,7 +70,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>lapsus</string>
 			<key>answer</key>
@@ -78,7 +78,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>medio</string>
 			<key>answer</key>
@@ -86,7 +86,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>consejo</string>
 			<key>answer</key>
@@ -94,7 +94,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>esteril</string>
 			<key>answer</key>
@@ -102,7 +102,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>frente</string>
 			<key>answer</key>
@@ -110,7 +110,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>caliz</string>
 			<key>answer</key>
@@ -118,7 +118,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>ramírez</string>
 			<key>answer</key>
@@ -126,7 +126,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>lápiz</string>
 			<key>answer</key>
@@ -134,7 +134,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>néstor</string>
 			<key>answer</key>
@@ -142,7 +142,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>sacapuntas</string>
 			<key>answer</key>
@@ -150,7 +150,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>cerumen</string>
 			<key>answer</key>
@@ -158,7 +158,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>puerta</string>
 			<key>answer</key>
@@ -166,7 +166,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>barman</string>
 			<key>answer</key>
@@ -174,7 +174,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>forro</string>
 			<key>answer</key>
@@ -182,7 +182,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>alférez</string>
 			<key>answer</key>
@@ -190,7 +190,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>pareja</string>
 			<key>answer</key>
@@ -198,7 +198,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>versus</string>
 			<key>answer</key>
@@ -206,7 +206,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>polen</string>
 			<key>answer</key>
@@ -214,7 +214,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>cárcel</string>
 			<key>answer</key>
@@ -222,7 +222,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>pronto</string>
 			<key>answer</key>
@@ -230,7 +230,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>bilis</string>
 			<key>answer</key>
@@ -238,7 +238,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>corner</string>
 			<key>answer</key>
@@ -246,7 +246,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>azucar</string>
 			<key>answer</key>
@@ -254,7 +254,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>lunes</string>
 			<key>answer</key>
@@ -262,7 +262,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>láser</string>
 			<key>answer</key>
@@ -270,7 +270,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>pómez</string>
 			<key>answer</key>
@@ -278,7 +278,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>salvavidas</string>
 			<key>answer</key>
@@ -286,7 +286,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>demasiado</string>
 			<key>answer</key>
@@ -294,7 +294,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>portátil</string>
 			<key>answer</key>
@@ -302,7 +302,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>caoba</string>
 			<key>answer</key>
@@ -310,7 +310,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>trébol</string>
 			<key>answer</key>
@@ -318,7 +318,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>almanaque</string>
 			<key>answer</key>
@@ -326,7 +326,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>pérez</string>
 			<key>answer</key>
@@ -334,7 +334,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>mendez</string>
 			<key>answer</key>
@@ -342,7 +342,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>manta</string>
 			<key>answer</key>
@@ -350,7 +350,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>alexánder</string>
 			<key>answer</key>
@@ -358,7 +358,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>tilde</string>
 			<key>answer</key>
@@ -366,7 +366,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>dosis</string>
 			<key>answer</key>
@@ -374,7 +374,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>cliente</string>
 			<key>answer</key>
@@ -382,7 +382,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>tráiler</string>
 			<key>answer</key>
@@ -390,7 +390,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>canon</string>
 			<key>answer</key>
@@ -398,7 +398,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>venus</string>
 			<key>answer</key>
@@ -406,7 +406,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>nunca</string>
 			<key>answer</key>
@@ -414,7 +414,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>quinientos</string>
 			<key>answer</key>
@@ -422,7 +422,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>estatus</string>
 			<key>answer</key>
@@ -430,7 +430,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>imbecil</string>
 			<key>answer</key>
@@ -438,7 +438,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>angel</string>
 			<key>answer</key>
@@ -446,7 +446,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>walter</string>
 			<key>answer</key>
@@ -454,7 +454,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>táctil</string>
 			<key>answer</key>
@@ -462,7 +462,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>codo</string>
 			<key>answer</key>
@@ -470,7 +470,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>orden</string>
 			<key>answer</key>
@@ -478,7 +478,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>rojo</string>
 			<key>answer</key>
@@ -486,7 +486,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>césped</string>
 			<key>answer</key>
@@ -494,7 +494,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>caramba</string>
 			<key>answer</key>
@@ -502,7 +502,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>aborigen</string>
 			<key>answer</key>
@@ -510,7 +510,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>consul</string>
 			<key>answer</key>
@@ -518,7 +518,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>crater</string>
 			<key>answer</key>
@@ -526,7 +526,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>charter</string>
 			<key>answer</key>
@@ -534,7 +534,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>procer</string>
 			<key>answer</key>
@@ -542,7 +542,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>esfínter</string>
 			<key>answer</key>
@@ -550,7 +550,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>virus</string>
 			<key>answer</key>
@@ -558,7 +558,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>album</string>
 			<key>answer</key>
@@ -566,7 +566,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>nacar</string>
 			<key>answer</key>
@@ -574,7 +574,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>clímax</string>
 			<key>answer</key>
@@ -582,7 +582,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>almíbar</string>
 			<key>answer</key>
@@ -590,7 +590,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>ámbar</string>
 			<key>answer</key>
@@ -598,7 +598,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>costilla</string>
 			<key>answer</key>
@@ -606,7 +606,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>master</string>
 			<key>answer</key>
@@ -614,7 +614,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>alegre</string>
 			<key>answer</key>
@@ -622,7 +622,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>brazo</string>
 			<key>answer</key>
@@ -630,7 +630,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>examen</string>
 			<key>answer</key>
@@ -638,7 +638,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>chaqueta</string>
 			<key>answer</key>
@@ -646,7 +646,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>carácter</string>
 			<key>answer</key>
@@ -654,7 +654,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>jarra</string>
 			<key>answer</key>
@@ -662,7 +662,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>mártir</string>
 			<key>answer</key>
@@ -670,7 +670,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>fósil</string>
 			<key>answer</key>
@@ -678,7 +678,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>silla</string>
 			<key>answer</key>
@@ -686,7 +686,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>debil</string>
 			<key>answer</key>
@@ -694,7 +694,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>gobierno</string>
 			<key>answer</key>
@@ -702,7 +702,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>virus</string>
 			<key>answer</key>
@@ -710,7 +710,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>maleta</string>
 			<key>answer</key>
@@ -718,7 +718,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>cadaver</string>
 			<key>answer</key>
@@ -726,7 +726,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>fémur</string>
 			<key>answer</key>
@@ -734,7 +734,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>alergia</string>
 			<key>answer</key>
@@ -742,7 +742,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>revólver</string>
 			<key>answer</key>
@@ -750,7 +750,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>toner</string>
 			<key>answer</key>
@@ -758,7 +758,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>cactus</string>
 			<key>answer</key>
@@ -766,7 +766,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>fértil</string>
 			<key>answer</key>
@@ -774,7 +774,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>pantera</string>
 			<key>answer</key>
@@ -782,7 +782,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>�scar</string>
 			<key>answer</key>
@@ -790,7 +790,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>margen</string>
 			<key>answer</key>
@@ -798,7 +798,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>eslogan</string>
 			<key>answer</key>
@@ -806,7 +806,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>dátil</string>
 			<key>answer</key>
@@ -814,7 +814,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>virgen</string>
 			<key>answer</key>
@@ -822,7 +822,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>ónix</string>
 			<key>answer</key>
@@ -830,7 +830,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>mitin</string>
 			<key>answer</key>
@@ -838,7 +838,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>dictamen</string>
 			<key>answer</key>
@@ -846,7 +846,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>carpeta</string>
 			<key>answer</key>
@@ -854,7 +854,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>felix</string>
 			<key>answer</key>
@@ -862,7 +862,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>superavit</string>
 			<key>answer</key>
@@ -870,7 +870,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>enredo</string>
 			<key>answer</key>
@@ -878,7 +878,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>embarazo</string>
 			<key>answer</key>
@@ -886,7 +886,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>volumen</string>
 			<key>answer</key>
@@ -894,7 +894,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>móvil</string>
 			<key>answer</key>
@@ -902,7 +902,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>wílliam</string>
 			<key>answer</key>
@@ -910,7 +910,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>tomate</string>
 			<key>answer</key>
@@ -918,7 +918,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>cutis</string>
 			<key>answer</key>
@@ -926,7 +926,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>poliester</string>
 			<key>answer</key>
@@ -934,7 +934,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>mástil</string>
 			<key>answer</key>
@@ -942,7 +942,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>lavaplatos</string>
 			<key>answer</key>
@@ -950,7 +950,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>hámster</string>
 			<key>answer</key>
@@ -958,7 +958,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>torta</string>
 			<key>answer</key>
@@ -966,7 +966,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>cosmos</string>
 			<key>answer</key>
@@ -974,7 +974,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>cumplea�os</string>
 			<key>answer</key>
@@ -982,7 +982,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>rodriguez</string>
 			<key>answer</key>
@@ -990,7 +990,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>difícil</string>
 			<key>answer</key>
@@ -998,7 +998,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>cacumen</string>
 			<key>answer</key>
@@ -1006,7 +1006,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>iluso</string>
 			<key>answer</key>
@@ -1014,7 +1014,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>libreta</string>
 			<key>answer</key>
@@ -1022,7 +1022,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>líder</string>
 			<key>answer</key>
@@ -1030,7 +1030,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>eter</string>
 			<key>answer</key>
@@ -1038,7 +1038,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>mármol</string>
 			<key>answer</key>
@@ -1046,7 +1046,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>torax</string>
 			<key>answer</key>
@@ -1054,7 +1054,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>saltamontes</string>
 			<key>answer</key>
@@ -1062,7 +1062,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>impuber</string>
 			<key>answer</key>
@@ -1070,7 +1070,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>enseres</string>
 			<key>answer</key>
@@ -1078,7 +1078,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>resumen</string>
 			<key>answer</key>
@@ -1086,7 +1086,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>néctar</string>
 			<key>answer</key>
@@ -1094,7 +1094,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>aníbal</string>
 			<key>answer</key>
@@ -1102,7 +1102,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>desorden</string>
 			<key>answer</key>
@@ -1110,7 +1110,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>partido</string>
 			<key>answer</key>
@@ -1118,7 +1118,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>antes</string>
 			<key>answer</key>
@@ -1126,7 +1126,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>continente</string>
 			<key>answer</key>
@@ -1134,7 +1134,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>pera</string>
 			<key>answer</key>
@@ -1142,7 +1142,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>cómic</string>
 			<key>answer</key>
@@ -1150,7 +1150,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>esmoquin</string>
 			<key>answer</key>
@@ -1158,7 +1158,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>latex</string>
 			<key>answer</key>
@@ -1166,7 +1166,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>dólar</string>
 			<key>answer</key>
@@ -1174,7 +1174,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>manzana</string>
 			<key>answer</key>
@@ -1182,7 +1182,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>milagro</string>
 			<key>answer</key>
@@ -1190,7 +1190,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>simil</string>
 			<key>answer</key>
@@ -1198,7 +1198,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>imagen</string>
 			<key>answer</key>
@@ -1206,7 +1206,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>cancer</string>
 			<key>answer</key>
@@ -1214,7 +1214,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>fragil</string>
 			<key>answer</key>
@@ -1222,7 +1222,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>martes</string>
 			<key>answer</key>
@@ -1230,7 +1230,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>catéter</string>
 			<key>answer</key>
@@ -1238,7 +1238,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>germen</string>
 			<key>answer</key>
@@ -1246,7 +1246,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>entonces</string>
 			<key>answer</key>
@@ -1254,7 +1254,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>a�icos</string>
 			<key>answer</key>
@@ -1262,7 +1262,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>negocio</string>
 			<key>answer</key>
@@ -1270,7 +1270,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>origen</string>
 			<key>answer</key>
@@ -1278,7 +1278,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>volátil</string>
 			<key>answer</key>
@@ -1286,7 +1286,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>jueves</string>
 			<key>answer</key>
@@ -1294,7 +1294,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>teclado</string>
 			<key>answer</key>
@@ -1302,7 +1302,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>certamen</string>
 			<key>answer</key>
@@ -1310,7 +1310,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>pensum</string>
 			<key>answer</key>
@@ -1318,7 +1318,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>póster</string>
 			<key>answer</key>
@@ -1326,7 +1326,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>huésped</string>
 			<key>answer</key>
@@ -1334,7 +1334,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>fácil</string>
 			<key>answer</key>
@@ -1342,7 +1342,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>bolívar</string>
 			<key>answer</key>
@@ -1350,7 +1350,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>fenix</string>
 			<key>answer</key>
@@ -1358,7 +1358,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>ágil</string>
 			<key>answer</key>
@@ -1366,7 +1366,7 @@
 	</dict>
 <dict>
 	<key>question</key>
-	<string>Seleccione las preguntas que son agudas y les falta acento</string>
+	<string>¿La siguiente palabra está bien acentuada?</string>
 	<key>word</key>
 			<string>récord</string>
 			<key>answer</key>

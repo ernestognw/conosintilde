@@ -16,7 +16,11 @@ class EditarPerfilVC: UIViewController, UIImagePickerControllerDelegate, UINavig
     override func viewDidLoad() {
         
         super.viewDidLoad()
-        
+        imgFoto.layer.borderWidth = 2
+        imgFoto.layer.masksToBounds = false
+        imgFoto.layer.borderColor = UIColor.black.cgColor
+        imgFoto.layer.cornerRadius = 50
+        imgFoto.clipsToBounds = true
         actualizaInterfaz()
 
     }
@@ -38,7 +42,7 @@ class EditarPerfilVC: UIViewController, UIImagePickerControllerDelegate, UINavig
         }
     }
     
-    @IBAction func agregarFotoUsuario(_ sender: UITapGestureRecognizer){
+    @IBAction func agregarFotoUsuario(_ sender: UIButton){
         let imagePicker = UIImagePickerController()
         imagePicker.delegate = self
         imagePicker.sourceType = .photoLibrary

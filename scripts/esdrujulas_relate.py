@@ -2,103 +2,80 @@
 
 str = """
 
-afonía	distraído	mármol
-ágil	dócil	mástil
-agonía	dólar	Méndez
-álbum	Domínguez	Néstor
-alcancía	dormía	observaría
-alegría	dúo	orografía
-alegría	ecología	Óscar
-analogía	egoísta	podría
-ángel	Elías	poesía
-antología	energía	policía
-apología	estéril	poliéster
-árbol	éter	portátil
-automóvil	etología	prócer
-azúcar	fácil	psicología
-bahía	Félix	púber
-biología	fémur	récord
-cadáver	Filosofía	reía
-camaradería	flúor	revólver
-cáncer	fórceps	río
-carácter	frágil	Rodríguez
-cerrajería	fútbol	rugía
-césar	Geología	Sánchez
-césped	grúa	sandía
-cirugía	hábil	símil
-clímax	haría	Suárez
-cómic	Hernández	tóner
-cóndor	heroína	tórax
-Cortázar	inverosímil	trébol
-cráter	ítem	túnel
-cría	kétchup	versátil
-Cristóbal	lápiz	vigía
-dátil	líder	volátil
-débil	línea	zoología
-
-abanico	consume	mochila
-abasto	corre	muestra
-abeja	cortinas	nube
-abrigo	cuaderno	ojos
-abuela	cuanto	ombligo
-acuarela	cuchara	Organiza
-adorno	cuello	oso
-agua	cuenta	pantera
-aire	desordena	parlante
-alfombra	diente	pelo
-amarillo	disco	pera
-Amazonas	domingo	perro
-antes	elefante	pestañas
-arena	ensalada	piedra
-Argentina	espera	pierna
-asume	estadio	plancha
-atento	estima	playa
-avispa	estrellas	pluma
-banana	estructura	pone
-banco	figura	puerto
-banquero	fruta	redacta
-bota	fuente	remera
-buena	galaxias	resumen
-busca	ganado	revisa
-caballo	gato	rinoceronte
-cabello	genio	roca
-cable	gordo	rompe
-cachetes	gusano	ropa
-calzado	hormigas	saludo
-caminata	ingenio	santo
-colcha	jirafa	silla
-colmillo	juega	suerte
-come	jugo	superpone
-conjuro	mesa	tapado
+antibiótico	estadístico	sarcástico
+árabe	económico	química
+brócoli	clásico	satélites
+cámaras	cómicos	terrícola
+catástrofe	cónyuge	túnica
+célebre	cerámica	pájaro
+célula	centímetro	página
+círculo	milímetro	oxígeno
+cópula	nanómetro	geológico
+depósito	carátula	gráficas
+drástico	caóticos	heterogéneo
+ejército	cálido	homogéneo
+fanático	aromático	humorístico
+fantástico	atlético	humanístico
+física	déficit	jurásico
+fonética	foráneo	lógico
+geográfico	pólvora	mágico
+ábaco	utópico	obstáculo
+académico	sábado	océano
+afónico	párroco	ortográfico
+película	héroe	pálido
+vándalo	lógica	paréntesis
+América	máquina	psíquica
+escéptico	fábula	pícaro
+ecológico	escuálido	químico
+crónicas	inequívoco	rectángulo
+ángulo	penúltimo	ridículo
+árboles	pirámides	satánico
+hipódromo	plástico	teléfono
+éxtasis	relámpago	término
+tentáculos	rápido	último
+vértice	recóndito	vértigo
+libélula	sépalo	víbora
+números	simpático	vómito
+estético	romántico	zodíaco
 
 """
+
+counter1 = 0
+counter2 = 0
 
 words = str.split()
 array = """			<array>
 				"""
 for i in range(0, len(words)) :
-    temp = """<array>
-					"""
-    temp += "<string>" + words[i][:-2] + "</string>"
-    temp += """
-					"""
-    temp += "<string>" + words[i][-2:] + "</string>"
-    temp += """
-				</array>
-				"""
-    array += temp
+    counter1 += 1
+    if(len(words[i]) >= 6):
+        counter2 += 1
+        firstHalf = len(words[i])-4
+        print(len(words[i]))
+        temp = """<array>
+                        """
+        temp += "<string>" + words[i][0:firstHalf] + "</string>"
+        temp += """
+                        """
+        temp += "<string>" + words[i][-4:] + "</string>"
+        temp += """
+                    </array>
+                    """
+        array += temp
 
 array += """
 			"""
 
 print(array)
 
+print(counter1)
+print(counter2)
 
-agudasPath = "/Users/rodrigocasale/Documents/Tec/semestre 6/iOS/conosintilde/scripts/graves.txt"
+
+agudasPath = "/Users/rodrigocasale/Documents/Tec/semestre 6/iOS/conosintilde/scripts/esdrujulas.txt"
 f = open(agudasPath, "w")
 f.write(array)
 f.close()
 
 #open and read the file after the appending:
 f = open(agudasPath, "r")
-print(f.read())

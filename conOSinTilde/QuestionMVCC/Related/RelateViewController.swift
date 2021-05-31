@@ -166,7 +166,7 @@ class RelateViewController: UIViewController {
     
     func getNewGame(){
         correct = 0
-        let dictionary = NSDictionary(contentsOfFile: Bundle.main.path(forResource: "agudas", ofType: "plist")!);
+        let dictionary = NSDictionary(contentsOfFile: Bundle.main.path(forResource: getGameType(), ofType: "plist")!);
         self.wordsArray = (dictionary?["RELATE"] as! NSArray)
         let wordsArray = (self.wordsArray!.object(at: 0) as! NSDictionary)["words"] as! NSArray
         

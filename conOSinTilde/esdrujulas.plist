@@ -2078,808 +2078,412 @@
 			<key>words</key>
 			<array>
 				<array>
-					<string>afon</string>
-					<string>ía</string>
+					<string>antibió</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>distraí</string>
-					<string>do</string>
+					<string>estadís</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>márm</string>
-					<string>ol</string>
+					<string>sarcás</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>ág</string>
-					<string>il</string>
+					<string>econó</string>
+					<string>mico</string>
 				</array>
 				<array>
-					<string>dóc</string>
-					<string>il</string>
+					<string>quí</string>
+					<string>mica</string>
 				</array>
 				<array>
-					<string>mást</string>
-					<string>il</string>
+					<string>bró</string>
+					<string>coli</string>
 				</array>
 				<array>
-					<string>agon</string>
-					<string>ía</string>
+					<string>clá</string>
+					<string>sico</string>
 				</array>
 				<array>
-					<string>dól</string>
-					<string>ar</string>
+					<string>satél</string>
+					<string>ites</string>
 				</array>
 				<array>
-					<string>Ménd</string>
-					<string>ez</string>
-				</array>
-				<array>
-					<string>álb</string>
-					<string>um</string>
-				</array>
-				<array>
-					<string>Domíngu</string>
-					<string>ez</string>
-				</array>
-				<array>
-					<string>Nést</string>
-					<string>or</string>
-				</array>
-				<array>
-					<string>alcanc</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>dorm</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>observar</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>alegr</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>d</string>
-					<string>úo</string>
-				</array>
-				<array>
-					<string>orograf</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>alegr</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>ecolog</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>Ósc</string>
-					<string>ar</string>
-				</array>
-				<array>
-					<string>analog</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>egoís</string>
-					<string>ta</string>
-				</array>
-				<array>
-					<string>podr</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>áng</string>
-					<string>el</string>
-				</array>
-				<array>
-					<string>Elí</string>
-					<string>as</string>
-				</array>
-				<array>
-					<string>poes</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>antolog</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>energ</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>polic</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>apolog</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>estér</string>
-					<string>il</string>
-				</array>
-				<array>
-					<string>poliést</string>
-					<string>er</string>
-				</array>
-				<array>
-					<string>árb</string>
-					<string>ol</string>
-				</array>
-				<array>
-					<string>ét</string>
-					<string>er</string>
-				</array>
-				<array>
-					<string>portát</string>
-					<string>il</string>
-				</array>
-				<array>
-					<string>automóv</string>
-					<string>il</string>
-				</array>
-				<array>
-					<string>etolog</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>próc</string>
-					<string>er</string>
-				</array>
-				<array>
-					<string>azúc</string>
-					<string>ar</string>
-				</array>
-				<array>
-					<string>fác</string>
-					<string>il</string>
-				</array>
-				<array>
-					<string>psicolog</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>bah</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>Fél</string>
-					<string>ix</string>
-				</array>
-				<array>
-					<string>púb</string>
-					<string>er</string>
-				</array>
-				<array>
-					<string>biolog</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>fém</string>
-					<string>ur</string>
-				</array>
-				<array>
-					<string>réco</string>
-					<string>rd</string>
-				</array>
-				<array>
-					<string>cadáv</string>
-					<string>er</string>
-				</array>
-				<array>
-					<string>Filosof</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>re</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>camarader</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>flú</string>
-					<string>or</string>
-				</array>
-				<array>
-					<string>revólv</string>
-					<string>er</string>
-				</array>
-				<array>
-					<string>cánc</string>
-					<string>er</string>
-				</array>
-				<array>
-					<string>fórce</string>
-					<string>ps</string>
-				</array>
-				<array>
-					<string>r</string>
-					<string>ío</string>
-				</array>
-				<array>
-					<string>caráct</string>
-					<string>er</string>
-				</array>
-				<array>
-					<string>frág</string>
-					<string>il</string>
-				</array>
-				<array>
-					<string>Rodrígu</string>
-					<string>ez</string>
-				</array>
-				<array>
-					<string>cerrajer</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>fútb</string>
-					<string>ol</string>
-				</array>
-				<array>
-					<string>rug</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>cés</string>
-					<string>ar</string>
-				</array>
-				<array>
-					<string>Geolog</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>Sánch</string>
-					<string>ez</string>
-				</array>
-				<array>
-					<string>césp</string>
-					<string>ed</string>
-				</array>
-				<array>
-					<string>gr</string>
-					<string>úa</string>
-				</array>
-				<array>
-					<string>sand</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>cirug</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>háb</string>
-					<string>il</string>
-				</array>
-				<array>
-					<string>sím</string>
-					<string>il</string>
-				</array>
-				<array>
-					<string>clím</string>
-					<string>ax</string>
-				</array>
-				<array>
-					<string>har</string>
-					<string>ía</string>
-				</array>
-				<array>
-					<string>Suár</string>
-					<string>ez</string>
+					<string>cám</string>
+					<string>aras</string>
 				</array>
 				<array>
 					<string>cóm</string>
-					<string>ic</string>
+					<string>icos</string>
 				</array>
 				<array>
-					<string>Hernánd</string>
-					<string>ez</string>
+					<string>terrí</string>
+					<string>cola</string>
 				</array>
 				<array>
-					<string>tón</string>
-					<string>er</string>
+					<string>catást</string>
+					<string>rofe</string>
 				</array>
 				<array>
-					<string>cónd</string>
-					<string>or</string>
+					<string>cón</string>
+					<string>yuge</string>
 				</array>
 				<array>
-					<string>heroí</string>
-					<string>na</string>
+					<string>tú</string>
+					<string>nica</string>
 				</array>
 				<array>
-					<string>tór</string>
-					<string>ax</string>
+					<string>cél</string>
+					<string>ebre</string>
 				</array>
 				<array>
-					<string>Cortáz</string>
-					<string>ar</string>
+					<string>cerá</string>
+					<string>mica</string>
 				</array>
 				<array>
-					<string>inverosím</string>
-					<string>il</string>
+					<string>pá</string>
+					<string>jaro</string>
 				</array>
 				<array>
-					<string>tréb</string>
-					<string>ol</string>
+					<string>cé</string>
+					<string>lula</string>
 				</array>
 				<array>
-					<string>crát</string>
-					<string>er</string>
+					<string>centím</string>
+					<string>etro</string>
 				</array>
 				<array>
-					<string>ít</string>
-					<string>em</string>
+					<string>pá</string>
+					<string>gina</string>
 				</array>
 				<array>
-					<string>tún</string>
-					<string>el</string>
+					<string>cír</string>
+					<string>culo</string>
 				</array>
 				<array>
-					<string>cr</string>
-					<string>ía</string>
+					<string>milím</string>
+					<string>etro</string>
 				</array>
 				<array>
-					<string>kétch</string>
-					<string>up</string>
+					<string>oxí</string>
+					<string>geno</string>
 				</array>
 				<array>
-					<string>versát</string>
-					<string>il</string>
+					<string>có</string>
+					<string>pula</string>
 				</array>
 				<array>
-					<string>Cristób</string>
-					<string>al</string>
+					<string>nanóm</string>
+					<string>etro</string>
 				</array>
 				<array>
-					<string>láp</string>
-					<string>iz</string>
+					<string>geoló</string>
+					<string>gico</string>
 				</array>
 				<array>
-					<string>vig</string>
-					<string>ía</string>
+					<string>depó</string>
+					<string>sito</string>
 				</array>
 				<array>
-					<string>dát</string>
-					<string>il</string>
+					<string>cará</string>
+					<string>tula</string>
 				</array>
 				<array>
-					<string>líd</string>
-					<string>er</string>
+					<string>gráf</string>
+					<string>icas</string>
 				</array>
 				<array>
-					<string>volát</string>
-					<string>il</string>
+					<string>drás</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>déb</string>
-					<string>il</string>
+					<string>caót</string>
+					<string>icos</string>
 				</array>
 				<array>
-					<string>lín</string>
-					<string>ea</string>
+					<string>heterog</string>
+					<string>éneo</string>
 				</array>
 				<array>
-					<string>zoolog</string>
-					<string>ía</string>
+					<string>ejér</string>
+					<string>cito</string>
 				</array>
 				<array>
-					<string>abani</string>
-					<string>co</string>
+					<string>cá</string>
+					<string>lido</string>
 				</array>
 				<array>
-					<string>consu</string>
-					<string>me</string>
+					<string>homog</string>
+					<string>éneo</string>
 				</array>
 				<array>
-					<string>mochi</string>
-					<string>la</string>
+					<string>faná</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>abas</string>
-					<string>to</string>
+					<string>aromá</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>cor</string>
-					<string>re</string>
+					<string>humorís</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>muest</string>
-					<string>ra</string>
+					<string>fantás</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>abe</string>
-					<string>ja</string>
+					<string>atlé</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>cortin</string>
-					<string>as</string>
+					<string>humanís</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>nu</string>
-					<string>be</string>
+					<string>fí</string>
+					<string>sica</string>
 				</array>
 				<array>
-					<string>abri</string>
-					<string>go</string>
+					<string>déf</string>
+					<string>icit</string>
 				</array>
 				<array>
-					<string>cuader</string>
-					<string>no</string>
+					<string>jurá</string>
+					<string>sico</string>
 				</array>
 				<array>
-					<string>oj</string>
-					<string>os</string>
+					<string>foné</string>
+					<string>tica</string>
 				</array>
 				<array>
-					<string>abue</string>
-					<string>la</string>
+					<string>for</string>
+					<string>áneo</string>
 				</array>
 				<array>
-					<string>cuan</string>
-					<string>to</string>
+					<string>ló</string>
+					<string>gico</string>
 				</array>
 				<array>
-					<string>ombli</string>
-					<string>go</string>
+					<string>geográ</string>
+					<string>fico</string>
 				</array>
 				<array>
-					<string>acuare</string>
-					<string>la</string>
+					<string>pól</string>
+					<string>vora</string>
 				</array>
 				<array>
-					<string>cucha</string>
-					<string>ra</string>
+					<string>má</string>
+					<string>gico</string>
 				</array>
 				<array>
-					<string>Organi</string>
-					<string>za</string>
+					<string>utó</string>
+					<string>pico</string>
 				</array>
 				<array>
-					<string>ador</string>
-					<string>no</string>
+					<string>obstá</string>
+					<string>culo</string>
 				</array>
 				<array>
-					<string>cuel</string>
-					<string>lo</string>
+					<string>acadé</string>
+					<string>mico</string>
 				</array>
 				<array>
-					<string>o</string>
-					<string>so</string>
+					<string>sá</string>
+					<string>bado</string>
 				</array>
 				<array>
-					<string>ag</string>
-					<string>ua</string>
+					<string>oc</string>
+					<string>éano</string>
 				</array>
 				<array>
-					<string>cuen</string>
-					<string>ta</string>
+					<string>afó</string>
+					<string>nico</string>
 				</array>
 				<array>
-					<string>pante</string>
-					<string>ra</string>
+					<string>pár</string>
+					<string>roco</string>
 				</array>
 				<array>
-					<string>ai</string>
-					<string>re</string>
+					<string>ortográ</string>
+					<string>fico</string>
 				</array>
 				<array>
-					<string>desorde</string>
-					<string>na</string>
+					<string>pelí</string>
+					<string>cula</string>
 				</array>
 				<array>
-					<string>parlan</string>
-					<string>te</string>
+					<string>pá</string>
+					<string>lido</string>
 				</array>
 				<array>
-					<string>alfomb</string>
-					<string>ra</string>
+					<string>ván</string>
+					<string>dalo</string>
 				</array>
 				<array>
-					<string>dien</string>
-					<string>te</string>
+					<string>ló</string>
+					<string>gica</string>
 				</array>
 				<array>
-					<string>pe</string>
-					<string>lo</string>
+					<string>parént</string>
+					<string>esis</string>
 				</array>
 				<array>
-					<string>amaril</string>
-					<string>lo</string>
+					<string>Amé</string>
+					<string>rica</string>
 				</array>
 				<array>
-					<string>dis</string>
-					<string>co</string>
+					<string>máq</string>
+					<string>uina</string>
 				</array>
 				<array>
-					<string>pe</string>
-					<string>ra</string>
+					<string>psíq</string>
+					<string>uica</string>
 				</array>
 				<array>
-					<string>Amazon</string>
-					<string>as</string>
+					<string>escép</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>domin</string>
-					<string>go</string>
+					<string>fá</string>
+					<string>bula</string>
 				</array>
 				<array>
-					<string>per</string>
-					<string>ro</string>
+					<string>pí</string>
+					<string>caro</string>
 				</array>
 				<array>
-					<string>ant</string>
-					<string>es</string>
+					<string>ecoló</string>
+					<string>gico</string>
 				</array>
 				<array>
-					<string>elefan</string>
-					<string>te</string>
+					<string>escuá</string>
+					<string>lido</string>
 				</array>
 				<array>
-					<string>pestañ</string>
-					<string>as</string>
+					<string>quí</string>
+					<string>mico</string>
 				</array>
 				<array>
-					<string>are</string>
-					<string>na</string>
+					<string>crón</string>
+					<string>icas</string>
 				</array>
 				<array>
-					<string>ensala</string>
-					<string>da</string>
+					<string>inequí</string>
+					<string>voco</string>
 				</array>
 				<array>
-					<string>pied</string>
-					<string>ra</string>
+					<string>rectán</string>
+					<string>gulo</string>
 				</array>
 				<array>
-					<string>Argenti</string>
-					<string>na</string>
+					<string>án</string>
+					<string>gulo</string>
 				</array>
 				<array>
-					<string>espe</string>
-					<string>ra</string>
+					<string>penúl</string>
+					<string>timo</string>
 				</array>
 				<array>
-					<string>pier</string>
-					<string>na</string>
+					<string>ridí</string>
+					<string>culo</string>
 				</array>
 				<array>
-					<string>asu</string>
-					<string>me</string>
+					<string>árb</string>
+					<string>oles</string>
 				</array>
 				<array>
-					<string>estad</string>
-					<string>io</string>
+					<string>pirám</string>
+					<string>ides</string>
 				</array>
 				<array>
-					<string>planc</string>
-					<string>ha</string>
+					<string>satá</string>
+					<string>nico</string>
 				</array>
 				<array>
-					<string>aten</string>
-					<string>to</string>
+					<string>hipód</string>
+					<string>romo</string>
 				</array>
 				<array>
-					<string>esti</string>
-					<string>ma</string>
+					<string>plás</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>pla</string>
-					<string>ya</string>
+					<string>telé</string>
+					<string>fono</string>
 				</array>
 				<array>
-					<string>avis</string>
-					<string>pa</string>
+					<string>éxt</string>
+					<string>asis</string>
 				</array>
 				<array>
-					<string>estrell</string>
-					<string>as</string>
+					<string>relám</string>
+					<string>pago</string>
 				</array>
 				<array>
-					<string>plu</string>
-					<string>ma</string>
+					<string>tér</string>
+					<string>mino</string>
 				</array>
 				<array>
-					<string>bana</string>
-					<string>na</string>
+					<string>tentác</string>
+					<string>ulos</string>
 				</array>
 				<array>
-					<string>estructu</string>
-					<string>ra</string>
+					<string>rá</string>
+					<string>pido</string>
 				</array>
 				<array>
-					<string>po</string>
-					<string>ne</string>
+					<string>úl</string>
+					<string>timo</string>
 				</array>
 				<array>
-					<string>ban</string>
-					<string>co</string>
+					<string>vér</string>
+					<string>tice</string>
 				</array>
 				<array>
-					<string>figu</string>
-					<string>ra</string>
+					<string>recón</string>
+					<string>dito</string>
 				</array>
 				<array>
-					<string>puer</string>
-					<string>to</string>
+					<string>vér</string>
+					<string>tigo</string>
 				</array>
 				<array>
-					<string>banque</string>
-					<string>ro</string>
+					<string>libé</string>
+					<string>lula</string>
 				</array>
 				<array>
-					<string>fru</string>
-					<string>ta</string>
+					<string>sé</string>
+					<string>palo</string>
 				</array>
 				<array>
-					<string>redac</string>
-					<string>ta</string>
+					<string>ví</string>
+					<string>bora</string>
 				</array>
 				<array>
-					<string>bo</string>
-					<string>ta</string>
+					<string>núm</string>
+					<string>eros</string>
 				</array>
 				<array>
-					<string>fuen</string>
-					<string>te</string>
+					<string>simpá</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>reme</string>
-					<string>ra</string>
+					<string>vó</string>
+					<string>mito</string>
 				</array>
 				<array>
-					<string>bue</string>
-					<string>na</string>
+					<string>esté</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>galaxi</string>
-					<string>as</string>
+					<string>román</string>
+					<string>tico</string>
 				</array>
 				<array>
-					<string>resum</string>
-					<string>en</string>
-				</array>
-				<array>
-					<string>bus</string>
-					<string>ca</string>
-				</array>
-				<array>
-					<string>gana</string>
-					<string>do</string>
-				</array>
-				<array>
-					<string>revi</string>
-					<string>sa</string>
-				</array>
-				<array>
-					<string>cabal</string>
-					<string>lo</string>
-				</array>
-				<array>
-					<string>ga</string>
-					<string>to</string>
-				</array>
-				<array>
-					<string>rinoceron</string>
-					<string>te</string>
-				</array>
-				<array>
-					<string>cabel</string>
-					<string>lo</string>
-				</array>
-				<array>
-					<string>gen</string>
-					<string>io</string>
-				</array>
-				<array>
-					<string>ro</string>
-					<string>ca</string>
-				</array>
-				<array>
-					<string>cab</string>
-					<string>le</string>
-				</array>
-				<array>
-					<string>gor</string>
-					<string>do</string>
-				</array>
-				<array>
-					<string>rom</string>
-					<string>pe</string>
-				</array>
-				<array>
-					<string>cachet</string>
-					<string>es</string>
-				</array>
-				<array>
-					<string>gusa</string>
-					<string>no</string>
-				</array>
-				<array>
-					<string>ro</string>
-					<string>pa</string>
-				</array>
-				<array>
-					<string>calza</string>
-					<string>do</string>
-				</array>
-				<array>
-					<string>hormig</string>
-					<string>as</string>
-				</array>
-				<array>
-					<string>salu</string>
-					<string>do</string>
-				</array>
-				<array>
-					<string>camina</string>
-					<string>ta</string>
-				</array>
-				<array>
-					<string>ingen</string>
-					<string>io</string>
-				</array>
-				<array>
-					<string>san</string>
-					<string>to</string>
-				</array>
-				<array>
-					<string>colc</string>
-					<string>ha</string>
-				</array>
-				<array>
-					<string>jira</string>
-					<string>fa</string>
-				</array>
-				<array>
-					<string>sil</string>
-					<string>la</string>
-				</array>
-				<array>
-					<string>colmil</string>
-					<string>lo</string>
-				</array>
-				<array>
-					<string>jue</string>
-					<string>ga</string>
-				</array>
-				<array>
-					<string>suer</string>
-					<string>te</string>
-				</array>
-				<array>
-					<string>co</string>
-					<string>me</string>
-				</array>
-				<array>
-					<string>ju</string>
-					<string>go</string>
-				</array>
-				<array>
-					<string>superpo</string>
-					<string>ne</string>
-				</array>
-				<array>
-					<string>conju</string>
-					<string>ro</string>
-				</array>
-				<array>
-					<string>me</string>
-					<string>sa</string>
-				</array>
-				<array>
-					<string>tapa</string>
-					<string>do</string>
+					<string>zod</string>
+					<string>íaco</string>
 				</array>
 			</array>
 		</dict>

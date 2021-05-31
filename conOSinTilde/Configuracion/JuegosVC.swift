@@ -13,7 +13,7 @@ class JuegosVC: UITableViewController {
     var courses = [
         Course(category: "Agudas", levels: ["Verdadero/Falso", "Selecciona", "Relaciona"]),
         Course(category: "Graves", levels: ["Verdadero/Falso", "Selecciona", "Relaciona"]),
-        Course(category: "Esdrujulas", levels: ["Verdadero/Falsoe", "Selecciona", "Relaciona"])
+        Course(category: "Esdrujulas", levels: ["Verdadero/Falso", "Selecciona", "Relaciona"])
     ]
     
     

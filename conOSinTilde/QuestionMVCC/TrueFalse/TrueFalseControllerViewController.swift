@@ -58,7 +58,7 @@ class TrueFalseControllerViewController: UIViewController {
     func getGameType() -> String {
         switch gameType {
         case .AGUDAS:
-            return "aguda"
+            return "agudas"
         case .GRAVES:
             return "graves"
         case .ESDRUJULAS:

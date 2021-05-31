@@ -16,7 +16,11 @@ class EditarPerfilVC: UIViewController, UIImagePickerControllerDelegate, UINavig
     override func viewDidLoad() {
         
         super.viewDidLoad()
-        
+        imgFoto.layer.borderWidth = 2
+        imgFoto.layer.masksToBounds = false
+        imgFoto.layer.borderColor = UIColor.black.cgColor
+        imgFoto.layer.cornerRadius = 50
+        imgFoto.clipsToBounds = true
         actualizaInterfaz()
 
     }
@@ -38,7 +42,7 @@ class EditarPerfilVC: UIViewController, UIImagePickerControllerDelegate, UINavig
         }
     }
     
-    @IBAction func agregarFotoUsuario(_ sender: UITapGestureRecognizer){
+    @IBAction func agregarFotoUsuario(_ sender: UIButton){
         let imagePicker = UIImagePickerController()
         imagePicker.delegate = self
         imagePicker.sourceType = .photoLibrary
@@ -48,6 +52,7 @@ class EditarPerfilVC: UIViewController, UIImagePickerControllerDelegate, UINavig
     
     @IBAction func guardarConfiguracion(_ sender: UIButton) {
         guardarDatos()
+        dismiss(animated: true, completion: nil)
     }
     
     @IBAction func quitarKeyboard(_ sender: UITapGestureRecognizer) {
@@ -62,7 +67,7 @@ class EditarPerfilVC: UIViewController, UIImagePickerControllerDelegate, UINavig
     func guardarDatos(){
         if let usuario = tfUsuario.text {
             defaults.setValue(usuario, forKey: "nombreUsuario")
-            dismiss(animated: true, completion: nil)
+            
         }
     }
 
